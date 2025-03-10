@@ -5,7 +5,7 @@
 import { countries, country } from 'ts-countries'
 
 // Or import classes directly
-import { Country, CountryCollection, CountryLoader } from 'ts-countries'
+// import { Country, CountryCollection, CountryLoader } from 'ts-countries'
 ```
 
 ### Working with Single Countries
