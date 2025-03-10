@@ -1,4 +1,16 @@
 
+## v0.1.0...main
+
+[compare changes](https://github.com/stacksjs/ts-countries/compare/v0.1.0...main)
+
+### 🏡 Chore
+
+- Adjust casing ([2b73885](https://github.com/stacksjs/ts-countries/commit/2b73885))
+
+### ❤️ Contributors
+
+- Chris ([@chrisbbreuer](http://github.com/chrisbbreuer))
+
 ## ...main
 
 
