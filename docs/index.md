@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "ts-countries"
-  text: "Modern Country Data Management"
-  tagline: "A powerful TypeScript library for handling comprehensive country information with an elegant API."
+  text: "Elegant Country Data Management"
+  tagline: "A powerful TypeScript library for handling comprehensive country information."
   image: /images/logo-white.png
   actions:
     - theme: brand
