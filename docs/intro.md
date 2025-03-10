@@ -157,7 +157,7 @@ The library throws descriptive exceptions for various error conditions:
 
 ## Contributing
 
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/stacksjs/stacks/blob/main/.github/CONTRIBUTING.md) for details.
 
 ## Community
 
