@@ -12,7 +12,7 @@ const analyticsHead: HeadConfig[] = [
     'script',
     {
       'src': 'https://cdn.usefathom.com/script.js',
-      'data-site': 'DCOEHMGA',
+      'data-site': 'JRSAHCNF',
       'defer': '',
     },
   ],
@@ -22,7 +22,7 @@ const nav = [
   { text: 'News', link: 'https://stacksjs.org/news' },
   {
     text: 'Changelog',
-    link: 'https://github.com/stacksjs/ts-punycode/blob/main/CHANGELOG.md',
+    link: 'https://github.com/stacksjs/ts-countries/blob/main/CHANGELOG.md',
   },
   // { text: 'Blog', link: 'https://updates.ow3.org' },
   {
@@ -61,13 +61,13 @@ const sidebar = [
   },
   { text: 'Showcase', link: '/Showcase' },
 ]
-const description = 'A TypeScript Starter Kit. For a better Development Experience.'
-const title = 'ts-punycode | A TypeScript Starter Kit. For a better Development Experience.'
+const description = 'A modern TypeScript library for managing and retrieving comprehensive country data with a simple and intuitive API'
+const title = 'ts-countries | Modern Country Data Management Library'
 
 export default withPwa(
   defineConfig({
     lang: 'en-US',
-    title: 'ts-punycode',
+    title: 'ts-countries',
     description,
     metaChunk: true,
     cleanUrls: true,
@@ -82,7 +82,7 @@ export default withPwa(
       ['meta', { name: 'author', content: 'Stacks.js, Inc.' }],
       ['meta', {
         name: 'tags',
-        content: 'ts-punycode, stacksjs, reverse proxy, modern, lightweight, zero-config, local development',
+        content: 'ts-countries, stacksjs, modern, lightweight, zero-config, local development',
       }],
 
       ['meta', { property: 'og:type', content: 'website' }],
@@ -90,9 +90,9 @@ export default withPwa(
       ['meta', { property: 'og:title', content: title }],
       ['meta', { property: 'og:description', content: description }],
 
-      ['meta', { property: 'og:site_name', content: 'ts-punycode' }],
+      ['meta', { property: 'og:site_name', content: 'ts-countries' }],
       ['meta', { property: 'og:image', content: './images/og-image.png' }],
-      ['meta', { property: 'og:url', content: 'https://ts-punycode.netlify.app/' }],
+      ['meta', { property: 'og:url', content: 'https://ts-countries.netlify.app/' }],
       // ['script', { 'src': 'https://cdn.usefathom.com/script.js', 'data-site': '', 'data-spa': 'auto', 'defer': '' }],
       ...analyticsHead,
     ],
@@ -121,8 +121,8 @@ export default withPwa(
 
       socialLinks: [
         { icon: 'twitter', link: 'https://twitter.com/stacksjs' },
-        { icon: 'bluesky', link: 'https://bsky.app/profile/chrisbreuer.dev' },
-        { icon: 'github', link: 'https://github.com/stacksjs/ts-punycode' },
+        { icon: 'bluesky', link: 'https://bsky.app/profile/chris-breuer.me' },
+        { icon: 'github', link: 'https://github.com/stacksjs/ts-countries' },
         { icon: 'discord', link: 'https://discord.gg/stacksjs' },
       ],
 
