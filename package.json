@@ -1,7 +1,7 @@
 {
   "name": "ts-countries",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A modern TypeScript library for retrieving country data with a simple and intuitive API.",
   "author": "Chris Breuer <chris@stacksjs.org>",
   "license": "MIT",
