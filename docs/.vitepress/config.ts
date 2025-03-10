@@ -2,7 +2,6 @@ import type { HeadConfig } from 'vitepress'
 import { transformerTwoslash } from '@shikijs/vitepress-twoslash'
 import { withPwa } from '@vite-pwa/vitepress'
 import { defineConfig } from 'vitepress'
-
 import viteConfig from './vite.config'
 
 // https://vitepress.dev/reference/site-config
@@ -56,10 +55,10 @@ const sidebar = [
       { text: 'Intro', link: '/intro' },
       { text: 'Install', link: '/install' },
       { text: 'Usage', link: '/usage' },
-      { text: 'Config', link: '/config' },
+      { text: 'Examples', link: '/examples' },
     ],
   },
-  { text: 'Showcase', link: '/Showcase' },
+  { text: 'Showcase', link: '/showcase' },
 ]
 const description = 'A modern TypeScript library for managing and retrieving comprehensive country data with a simple and intuitive API'
 const title = 'ts-countries | Modern Country Data Management Library'
