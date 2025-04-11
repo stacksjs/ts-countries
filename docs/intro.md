@@ -159,6 +159,10 @@ The library throws descriptive exceptions for various error conditions:
 
 Please see [CONTRIBUTING](https://github.com/stacksjs/stacks/blob/main/.github/CONTRIBUTING.md) for details.
 
+## Stargazers
+
+[![Stargazers](https://starchart.cc/stacksjs/ts-countries.svg?variant=adaptive)](https://starchart.cc/stacksjs/ts-countries)
+
 ## Community
 
 For help, discussion about best practices, or any other conversation that would benefit from being searchable:
