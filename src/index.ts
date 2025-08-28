@@ -1,6 +1,7 @@
 // Export classes
 export { Country } from './Country'
 export { CountryLoader } from './CountryLoader'
+export { CountryCollection } from './CountryCollection'
 export { CountryLoaderException } from './CountryLoaderException'
 export { CurrencyLoader } from './CurrencyLoader'
 
