@@ -1,0 +1,17 @@
+[
+  {"name": "Oklahoma City", "stateCode": "OK", "state": "Oklahoma", "county": "Oklahoma", "metro": "Oklahoma City", "population": 681054, "geo": {"lat": 35.4676, "lon": -97.5164, "tz": "America/Chicago"}},
+  {"name": "Tulsa", "stateCode": "OK", "state": "Oklahoma", "county": "Tulsa", "metro": "Tulsa", "population": 413066, "geo": {"lat": 36.1540, "lon": -95.9928, "tz": "America/Chicago"}},
+  {"name": "Norman", "stateCode": "OK", "state": "Oklahoma", "county": "Cleveland", "metro": "Oklahoma City", "population": 128026, "geo": {"lat": 35.2226, "lon": -97.4395, "tz": "America/Chicago"}},
+  {"name": "Broken Arrow", "stateCode": "OK", "state": "Oklahoma", "county": "Tulsa", "metro": "Tulsa", "population": 113540, "geo": {"lat": 36.0526, "lon": -95.7908, "tz": "America/Chicago"}},
+  {"name": "Edmond", "stateCode": "OK", "state": "Oklahoma", "county": "Oklahoma", "metro": "Oklahoma City", "population": 94428, "geo": {"lat": 35.6528, "lon": -97.4781, "tz": "America/Chicago"}},
+  {"name": "Lawton", "stateCode": "OK", "state": "Oklahoma", "county": "Comanche", "metro": "Lawton", "population": 89015, "geo": {"lat": 34.6036, "lon": -98.3959, "tz": "America/Chicago"}},
+  {"name": "Moore", "stateCode": "OK", "state": "Oklahoma", "county": "Cleveland", "metro": "Oklahoma City", "population": 62793, "geo": {"lat": 35.3395, "lon": -97.4867, "tz": "America/Chicago"}},
+  {"name": "Midwest City", "stateCode": "OK", "state": "Oklahoma", "county": "Oklahoma", "metro": "Oklahoma City", "population": 57873, "geo": {"lat": 35.4495, "lon": -97.3967, "tz": "America/Chicago"}},
+  {"name": "Enid", "stateCode": "OK", "state": "Oklahoma", "county": "Garfield", "metro": "Enid", "population": 52449, "geo": {"lat": 36.3956, "lon": -97.8784, "tz": "America/Chicago"}},
+  {"name": "Stillwater", "stateCode": "OK", "state": "Oklahoma", "county": "Payne", "metro": "Stillwater", "population": 50317, "geo": {"lat": 36.1156, "lon": -97.0584, "tz": "America/Chicago"}},
+  {"name": "Muskogee", "stateCode": "OK", "state": "Oklahoma", "county": "Muskogee", "metro": "Muskogee", "population": 36584, "geo": {"lat": 35.7479, "lon": -95.3697, "tz": "America/Chicago"}},
+  {"name": "Bartlesville", "stateCode": "OK", "state": "Oklahoma", "county": "Washington", "metro": "Bartlesville", "population": 37290, "geo": {"lat": 36.7473, "lon": -95.9808, "tz": "America/Chicago"}},
+  {"name": "Owasso", "stateCode": "OK", "state": "Oklahoma", "county": "Tulsa", "metro": "Tulsa", "population": 39327, "geo": {"lat": 36.2695, "lon": -95.8547, "tz": "America/Chicago"}},
+  {"name": "Shawnee", "stateCode": "OK", "state": "Oklahoma", "county": "Pottawatomie", "metro": "Oklahoma City", "population": 31512, "geo": {"lat": 35.3273, "lon": -96.9253, "tz": "America/Chicago"}},
+  {"name": "Ponca City", "stateCode": "OK", "state": "Oklahoma", "county": "Kay", "metro": "Ponca City", "population": 23858, "geo": {"lat": 36.7070, "lon": -97.0856, "tz": "America/Chicago"}}
+]

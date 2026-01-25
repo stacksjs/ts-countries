@@ -56,21 +56,21 @@ export class City {
    * Get the latitude
    */
   public getLatitude(): number {
-    return this.attributes.geo.latitude
+    return this.attributes.geo.latitude ?? this.attributes.geo.lat ?? 0
   }
 
   /**
    * Get the longitude
    */
   public getLongitude(): number {
-    return this.attributes.geo.longitude
+    return this.attributes.geo.longitude ?? this.attributes.geo.lon ?? 0
   }
 
   /**
    * Get the timezone
    */
   public getTimezone(): string | undefined {
-    return this.attributes.geo.timezone
+    return this.attributes.geo.timezone ?? this.attributes.geo.tz
   }
 
   /**
@@ -78,8 +78,8 @@ export class City {
    */
   public getCoordinates(): GeoCoordinates {
     return {
-      latitude: this.attributes.geo.latitude,
-      longitude: this.attributes.geo.longitude,
+      latitude: this.getLatitude(),
+      longitude: this.getLongitude(),
     }
   }
 

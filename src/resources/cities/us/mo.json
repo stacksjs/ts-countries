@@ -1,0 +1,17 @@
+[
+  {"name": "Kansas City", "stateCode": "MO", "state": "Missouri", "county": "Jackson", "metro": "Kansas City", "population": 508090, "geo": {"lat": 39.0997, "lon": -94.5786, "tz": "America/Chicago"}},
+  {"name": "St. Louis", "stateCode": "MO", "state": "Missouri", "county": "St. Louis City", "metro": "St. Louis", "population": 301578, "geo": {"lat": 38.6270, "lon": -90.1994, "tz": "America/Chicago"}},
+  {"name": "Springfield", "stateCode": "MO", "state": "Missouri", "county": "Greene", "metro": "Springfield", "population": 169176, "geo": {"lat": 37.2090, "lon": -93.2923, "tz": "America/Chicago"}},
+  {"name": "Columbia", "stateCode": "MO", "state": "Missouri", "county": "Boone", "metro": "Columbia", "population": 126254, "geo": {"lat": 38.9517, "lon": -92.3341, "tz": "America/Chicago"}},
+  {"name": "Independence", "stateCode": "MO", "state": "Missouri", "county": "Jackson", "metro": "Kansas City", "population": 123011, "geo": {"lat": 39.0911, "lon": -94.4155, "tz": "America/Chicago"}},
+  {"name": "Lee's Summit", "stateCode": "MO", "state": "Missouri", "county": "Jackson", "metro": "Kansas City", "population": 101108, "geo": {"lat": 38.9108, "lon": -94.3822, "tz": "America/Chicago"}},
+  {"name": "O'Fallon", "stateCode": "MO", "state": "Missouri", "county": "St. Charles", "metro": "St. Louis", "population": 91316, "geo": {"lat": 38.8106, "lon": -90.6998, "tz": "America/Chicago"}},
+  {"name": "St. Joseph", "stateCode": "MO", "state": "Missouri", "county": "Buchanan", "metro": "St. Joseph", "population": 72473, "geo": {"lat": 39.7578, "lon": -94.8467, "tz": "America/Chicago"}},
+  {"name": "St. Charles", "stateCode": "MO", "state": "Missouri", "county": "St. Charles", "metro": "St. Louis", "population": 71028, "geo": {"lat": 38.7881, "lon": -90.4974, "tz": "America/Chicago"}},
+  {"name": "St. Peters", "stateCode": "MO", "state": "Missouri", "county": "St. Charles", "metro": "St. Louis", "population": 57732, "geo": {"lat": 38.7997, "lon": -90.6273, "tz": "America/Chicago"}},
+  {"name": "Blue Springs", "stateCode": "MO", "state": "Missouri", "county": "Jackson", "metro": "Kansas City", "population": 56711, "geo": {"lat": 39.0169, "lon": -94.2816, "tz": "America/Chicago"}},
+  {"name": "Florissant", "stateCode": "MO", "state": "Missouri", "county": "St. Louis", "metro": "St. Louis", "population": 51631, "geo": {"lat": 38.7892, "lon": -90.3226, "tz": "America/Chicago"}},
+  {"name": "Joplin", "stateCode": "MO", "state": "Missouri", "county": "Jasper", "metro": "Joplin", "population": 51762, "geo": {"lat": 37.0842, "lon": -94.5133, "tz": "America/Chicago"}},
+  {"name": "Chesterfield", "stateCode": "MO", "state": "Missouri", "county": "St. Louis", "metro": "St. Louis", "population": 49999, "geo": {"lat": 38.6631, "lon": -90.5771, "tz": "America/Chicago"}},
+  {"name": "Jefferson City", "stateCode": "MO", "state": "Missouri", "county": "Cole", "metro": "Jefferson City", "population": 42838, "geo": {"lat": 38.5767, "lon": -92.1735, "tz": "America/Chicago"}}
+]

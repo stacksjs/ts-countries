@@ -1,0 +1,533 @@
+{
+  "houston": {
+    "name": "Houston",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Harris",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 2304580,
+    "geo": { "latitude": 29.7604, "longitude": -95.3698, "timezone": "America/Chicago" }
+  },
+  "san-antonio": {
+    "name": "San Antonio",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Bexar",
+    "metro": "San Antonio-New Braunfels",
+    "population": 1547253,
+    "geo": { "latitude": 29.4241, "longitude": -98.4936, "timezone": "America/Chicago" }
+  },
+  "dallas": {
+    "name": "Dallas",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Dallas",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 1304379,
+    "geo": { "latitude": 32.7767, "longitude": -96.7970, "timezone": "America/Chicago" }
+  },
+  "austin": {
+    "name": "Austin",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Travis",
+    "metro": "Austin-Round Rock-Georgetown",
+    "population": 978908,
+    "geo": { "latitude": 30.2672, "longitude": -97.7431, "timezone": "America/Chicago" }
+  },
+  "fort-worth": {
+    "name": "Fort Worth",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Tarrant",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 918915,
+    "geo": { "latitude": 32.7555, "longitude": -97.3308, "timezone": "America/Chicago" }
+  },
+  "el-paso": {
+    "name": "El Paso",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "El Paso",
+    "metro": "El Paso",
+    "population": 678815,
+    "geo": { "latitude": 31.7619, "longitude": -106.4850, "timezone": "America/Denver" }
+  },
+  "arlington": {
+    "name": "Arlington",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Tarrant",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 394266,
+    "geo": { "latitude": 32.7357, "longitude": -97.1081, "timezone": "America/Chicago" }
+  },
+  "corpus-christi": {
+    "name": "Corpus Christi",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Nueces",
+    "metro": "Corpus Christi",
+    "population": 317863,
+    "geo": { "latitude": 27.8006, "longitude": -97.3964, "timezone": "America/Chicago" }
+  },
+  "plano": {
+    "name": "Plano",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Collin",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 287677,
+    "geo": { "latitude": 33.0198, "longitude": -96.6989, "timezone": "America/Chicago" }
+  },
+  "laredo": {
+    "name": "Laredo",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Webb",
+    "metro": "Laredo",
+    "population": 261639,
+    "geo": { "latitude": 27.5306, "longitude": -99.4803, "timezone": "America/Chicago" }
+  },
+  "lubbock": {
+    "name": "Lubbock",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Lubbock",
+    "metro": "Lubbock",
+    "population": 258862,
+    "geo": { "latitude": 33.5779, "longitude": -101.8552, "timezone": "America/Chicago" }
+  },
+  "garland": {
+    "name": "Garland",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Dallas",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 239928,
+    "geo": { "latitude": 32.9126, "longitude": -96.6389, "timezone": "America/Chicago" }
+  },
+  "irving": {
+    "name": "Irving",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Dallas",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 256684,
+    "geo": { "latitude": 32.8140, "longitude": -96.9489, "timezone": "America/Chicago" }
+  },
+  "frisco": {
+    "name": "Frisco",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Collin",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 200490,
+    "geo": { "latitude": 33.1507, "longitude": -96.8236, "timezone": "America/Chicago" }
+  },
+  "mckinney": {
+    "name": "McKinney",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Collin",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 199177,
+    "geo": { "latitude": 33.1972, "longitude": -96.6397, "timezone": "America/Chicago" }
+  },
+  "amarillo": {
+    "name": "Amarillo",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Potter",
+    "metro": "Amarillo",
+    "population": 200393,
+    "geo": { "latitude": 35.2220, "longitude": -101.8313, "timezone": "America/Chicago" }
+  },
+  "grand-prairie": {
+    "name": "Grand Prairie",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Dallas",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 196100,
+    "geo": { "latitude": 32.7460, "longitude": -96.9978, "timezone": "America/Chicago" }
+  },
+  "brownsville": {
+    "name": "Brownsville",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Cameron",
+    "metro": "Brownsville-Harlingen",
+    "population": 186738,
+    "geo": { "latitude": 25.9017, "longitude": -97.4975, "timezone": "America/Chicago" }
+  },
+  "killeen": {
+    "name": "Killeen",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Bell",
+    "metro": "Killeen-Temple",
+    "population": 153095,
+    "geo": { "latitude": 31.1171, "longitude": -97.7278, "timezone": "America/Chicago" }
+  },
+  "pasadena": {
+    "name": "Pasadena",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Harris",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 151227,
+    "geo": { "latitude": 29.6911, "longitude": -95.2091, "timezone": "America/Chicago" }
+  },
+  "mesquite": {
+    "name": "Mesquite",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Dallas",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 150108,
+    "geo": { "latitude": 32.7668, "longitude": -96.5992, "timezone": "America/Chicago" }
+  },
+  "mcallen": {
+    "name": "McAllen",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Hidalgo",
+    "metro": "McAllen-Edinburg-Mission",
+    "population": 142210,
+    "geo": { "latitude": 26.2034, "longitude": -98.2300, "timezone": "America/Chicago" }
+  },
+  "denton": {
+    "name": "Denton",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Denton",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 139869,
+    "geo": { "latitude": 33.2148, "longitude": -97.1331, "timezone": "America/Chicago" }
+  },
+  "waco": {
+    "name": "Waco",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "McLennan",
+    "metro": "Waco",
+    "population": 139236,
+    "geo": { "latitude": 31.5493, "longitude": -97.1467, "timezone": "America/Chicago" }
+  },
+  "carrollton": {
+    "name": "Carrollton",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Dallas",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 136879,
+    "geo": { "latitude": 32.9537, "longitude": -96.8903, "timezone": "America/Chicago" }
+  },
+  "midland": {
+    "name": "Midland",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Midland",
+    "metro": "Midland",
+    "population": 132950,
+    "geo": { "latitude": 31.9973, "longitude": -102.0779, "timezone": "America/Chicago" }
+  },
+  "pearland": {
+    "name": "Pearland",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Brazoria",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 125828,
+    "geo": { "latitude": 29.5636, "longitude": -95.2860, "timezone": "America/Chicago" }
+  },
+  "round-rock": {
+    "name": "Round Rock",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Williamson",
+    "metro": "Austin-Round Rock-Georgetown",
+    "population": 133372,
+    "geo": { "latitude": 30.5083, "longitude": -97.6789, "timezone": "America/Chicago" }
+  },
+  "odessa": {
+    "name": "Odessa",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Ector",
+    "metro": "Odessa",
+    "population": 117437,
+    "geo": { "latitude": 31.8457, "longitude": -102.3676, "timezone": "America/Chicago" }
+  },
+  "richardson": {
+    "name": "Richardson",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Dallas",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 121323,
+    "geo": { "latitude": 32.9483, "longitude": -96.7299, "timezone": "America/Chicago" }
+  },
+  "lewisville": {
+    "name": "Lewisville",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Denton",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 111822,
+    "geo": { "latitude": 33.0462, "longitude": -96.9942, "timezone": "America/Chicago" }
+  },
+  "league-city": {
+    "name": "League City",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Galveston",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 111117,
+    "geo": { "latitude": 29.5075, "longitude": -95.0949, "timezone": "America/Chicago" }
+  },
+  "tyler": {
+    "name": "Tyler",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Smith",
+    "metro": "Tyler",
+    "population": 107405,
+    "geo": { "latitude": 32.3513, "longitude": -95.3011, "timezone": "America/Chicago" }
+  },
+  "sugar-land": {
+    "name": "Sugar Land",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Fort Bend",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 111026,
+    "geo": { "latitude": 29.6197, "longitude": -95.6349, "timezone": "America/Chicago" }
+  },
+  "college-station": {
+    "name": "College Station",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Brazos",
+    "metro": "College Station-Bryan",
+    "population": 120511,
+    "geo": { "latitude": 30.6280, "longitude": -96.3344, "timezone": "America/Chicago" }
+  },
+  "beaumont": {
+    "name": "Beaumont",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Jefferson",
+    "metro": "Beaumont-Port Arthur",
+    "population": 115282,
+    "geo": { "latitude": 30.0802, "longitude": -94.1266, "timezone": "America/Chicago" }
+  },
+  "allen": {
+    "name": "Allen",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Collin",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 105623,
+    "geo": { "latitude": 33.1032, "longitude": -96.6706, "timezone": "America/Chicago" }
+  },
+  "abilene": {
+    "name": "Abilene",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Taylor",
+    "metro": "Abilene",
+    "population": 123676,
+    "geo": { "latitude": 32.4487, "longitude": -99.7331, "timezone": "America/Chicago" }
+  },
+  "edinburg": {
+    "name": "Edinburg",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Hidalgo",
+    "metro": "McAllen-Edinburg-Mission",
+    "population": 101170,
+    "geo": { "latitude": 26.3017, "longitude": -98.1633, "timezone": "America/Chicago" }
+  },
+  "new-braunfels": {
+    "name": "New Braunfels",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Comal",
+    "metro": "San Antonio-New Braunfels",
+    "population": 90209,
+    "geo": { "latitude": 29.7030, "longitude": -98.1245, "timezone": "America/Chicago" }
+  },
+  "conroe": {
+    "name": "Conroe",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Montgomery",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 89956,
+    "geo": { "latitude": 30.3119, "longitude": -95.4560, "timezone": "America/Chicago" }
+  },
+  "san-angelo": {
+    "name": "San Angelo",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Tom Green",
+    "metro": "San Angelo",
+    "population": 100215,
+    "geo": { "latitude": 31.4638, "longitude": -100.4370, "timezone": "America/Chicago" }
+  },
+  "bryan": {
+    "name": "Bryan",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Brazos",
+    "metro": "College Station-Bryan",
+    "population": 86276,
+    "geo": { "latitude": 30.6744, "longitude": -96.3700, "timezone": "America/Chicago" }
+  },
+  "temple": {
+    "name": "Temple",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Bell",
+    "metro": "Killeen-Temple",
+    "population": 82073,
+    "geo": { "latitude": 31.0982, "longitude": -97.3428, "timezone": "America/Chicago" }
+  },
+  "flower-mound": {
+    "name": "Flower Mound",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Denton",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 79276,
+    "geo": { "latitude": 33.0145, "longitude": -97.0969, "timezone": "America/Chicago" }
+  },
+  "pharr": {
+    "name": "Pharr",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Hidalgo",
+    "metro": "McAllen-Edinburg-Mission",
+    "population": 79112,
+    "geo": { "latitude": 26.1948, "longitude": -98.1836, "timezone": "America/Chicago" }
+  },
+  "north-richland-hills": {
+    "name": "North Richland Hills",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Tarrant",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 72452,
+    "geo": { "latitude": 32.8343, "longitude": -97.2289, "timezone": "America/Chicago" }
+  },
+  "rowlett": {
+    "name": "Rowlett",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Dallas",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 67339,
+    "geo": { "latitude": 32.9029, "longitude": -96.5639, "timezone": "America/Chicago" }
+  },
+  "longview": {
+    "name": "Longview",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Gregg",
+    "metro": "Longview",
+    "population": 81638,
+    "geo": { "latitude": 32.5007, "longitude": -94.7405, "timezone": "America/Chicago" }
+  },
+  "the-woodlands": {
+    "name": "The Woodlands",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Montgomery",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 114436,
+    "geo": { "latitude": 30.1588, "longitude": -95.4613, "timezone": "America/Chicago" }
+  },
+  "katy": {
+    "name": "Katy",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Harris",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 21894,
+    "geo": { "latitude": 29.7858, "longitude": -95.8245, "timezone": "America/Chicago" }
+  },
+  "galveston": {
+    "name": "Galveston",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Galveston",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 53695,
+    "geo": { "latitude": 29.3013, "longitude": -94.7977, "timezone": "America/Chicago" }
+  },
+  "port-arthur": {
+    "name": "Port Arthur",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Jefferson",
+    "metro": "Beaumont-Port Arthur",
+    "population": 54135,
+    "geo": { "latitude": 29.8850, "longitude": -93.9400, "timezone": "America/Chicago" }
+  },
+  "victoria": {
+    "name": "Victoria",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Victoria",
+    "metro": "Victoria",
+    "population": 67620,
+    "geo": { "latitude": 28.8053, "longitude": -97.0036, "timezone": "America/Chicago" }
+  },
+  "georgetown": {
+    "name": "Georgetown",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Williamson",
+    "metro": "Austin-Round Rock-Georgetown",
+    "population": 79604,
+    "geo": { "latitude": 30.6333, "longitude": -97.6781, "timezone": "America/Chicago" }
+  },
+  "pflugerville": {
+    "name": "Pflugerville",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Travis",
+    "metro": "Austin-Round Rock-Georgetown",
+    "population": 65191,
+    "geo": { "latitude": 30.4394, "longitude": -97.6200, "timezone": "America/Chicago" }
+  },
+  "cedar-park": {
+    "name": "Cedar Park",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Williamson",
+    "metro": "Austin-Round Rock-Georgetown",
+    "population": 79462,
+    "geo": { "latitude": 30.5052, "longitude": -97.8203, "timezone": "America/Chicago" }
+  },
+  "southlake": {
+    "name": "Southlake",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Tarrant",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 31265,
+    "geo": { "latitude": 32.9412, "longitude": -97.1342, "timezone": "America/Chicago" }
+  },
+  "grapevine": {
+    "name": "Grapevine",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Tarrant",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 54156,
+    "geo": { "latitude": 32.9343, "longitude": -97.0781, "timezone": "America/Chicago" }
+  }
+}

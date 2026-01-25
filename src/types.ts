@@ -116,11 +116,15 @@ export interface GeoCoordinates {
 
 /**
  * City geographic information
+ * Supports both long format (latitude/longitude) and short format (lat/lon)
  */
 export interface CityGeo {
-  latitude: number
-  longitude: number
+  latitude?: number
+  longitude?: number
+  lat?: number
+  lon?: number
   timezone?: string
+  tz?: string
 }
 
 /**

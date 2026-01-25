@@ -1,0 +1,15 @@
+[
+  {"name": "Halle (Saale)", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Halle", "metro": "Halle-Leipzig", "population": 238762, "geo": {"lat": 51.4969, "lon": 11.9688, "tz": "Europe/Berlin"}},
+  {"name": "Magdeburg", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Magdeburg", "metro": "Magdeburg", "population": 236235, "geo": {"lat": 52.1205, "lon": 11.6276, "tz": "Europe/Berlin"}},
+  {"name": "Dessau-Roßlau", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Dessau-Roßlau", "metro": "Halle-Leipzig", "population": 79350, "geo": {"lat": 51.8333, "lon": 12.2500, "tz": "Europe/Berlin"}},
+  {"name": "Lutherstadt Wittenberg", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Wittenberg", "metro": "Wittenberg", "population": 46008, "geo": {"lat": 51.8667, "lon": 12.6500, "tz": "Europe/Berlin"}},
+  {"name": "Halberstadt", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Harz", "metro": "Harz", "population": 40440, "geo": {"lat": 51.8958, "lon": 11.0394, "tz": "Europe/Berlin"}},
+  {"name": "Stendal", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Stendal", "metro": "Altmark", "population": 38972, "geo": {"lat": 52.6047, "lon": 11.8589, "tz": "Europe/Berlin"}},
+  {"name": "Wernigerode", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Harz", "metro": "Harz", "population": 32734, "geo": {"lat": 51.8389, "lon": 10.7850, "tz": "Europe/Berlin"}},
+  {"name": "Bernburg", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Salzlandkreis", "metro": "Halle-Leipzig", "population": 32041, "geo": {"lat": 51.7956, "lon": 11.7394, "tz": "Europe/Berlin"}},
+  {"name": "Bitterfeld-Wolfen", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Anhalt-Bitterfeld", "metro": "Halle-Leipzig", "population": 39492, "geo": {"lat": 51.6244, "lon": 12.3236, "tz": "Europe/Berlin"}},
+  {"name": "Schönebeck", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Salzlandkreis", "metro": "Magdeburg", "population": 30180, "geo": {"lat": 52.0167, "lon": 11.7333, "tz": "Europe/Berlin"}},
+  {"name": "Quedlinburg", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Harz", "metro": "Harz", "population": 24066, "geo": {"lat": 51.7894, "lon": 11.1528, "tz": "Europe/Berlin"}},
+  {"name": "Naumburg", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Burgenlandkreis", "metro": "Halle-Leipzig", "population": 32608, "geo": {"lat": 51.1522, "lon": 11.8094, "tz": "Europe/Berlin"}},
+  {"name": "Merseburg", "stateCode": "ST", "state": "Sachsen-Anhalt", "county": "Saalekreis", "metro": "Halle-Leipzig", "population": 33891, "geo": {"lat": 51.3544, "lon": 11.9942, "tz": "Europe/Berlin"}}
+]

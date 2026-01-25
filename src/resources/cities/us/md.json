@@ -1,0 +1,17 @@
+[
+  {"name": "Baltimore", "stateCode": "MD", "state": "Maryland", "county": "Baltimore City", "metro": "Baltimore-Washington", "population": 585708, "geo": {"lat": 39.2904, "lon": -76.6122, "tz": "America/New_York"}},
+  {"name": "Frederick", "stateCode": "MD", "state": "Maryland", "county": "Frederick", "metro": "Baltimore-Washington", "population": 78171, "geo": {"lat": 39.4143, "lon": -77.4105, "tz": "America/New_York"}},
+  {"name": "Rockville", "stateCode": "MD", "state": "Maryland", "county": "Montgomery", "metro": "Washington DC", "population": 68401, "geo": {"lat": 39.0840, "lon": -77.1528, "tz": "America/New_York"}},
+  {"name": "Gaithersburg", "stateCode": "MD", "state": "Maryland", "county": "Montgomery", "metro": "Washington DC", "population": 69657, "geo": {"lat": 39.1434, "lon": -77.2014, "tz": "America/New_York"}},
+  {"name": "Bowie", "stateCode": "MD", "state": "Maryland", "county": "Prince George's", "metro": "Washington DC", "population": 58682, "geo": {"lat": 39.0068, "lon": -76.7791, "tz": "America/New_York"}},
+  {"name": "Hagerstown", "stateCode": "MD", "state": "Maryland", "county": "Washington", "metro": "Hagerstown-Martinsburg", "population": 41280, "geo": {"lat": 39.6418, "lon": -77.7200, "tz": "America/New_York"}},
+  {"name": "Annapolis", "stateCode": "MD", "state": "Maryland", "county": "Anne Arundel", "metro": "Baltimore-Washington", "population": 40812, "geo": {"lat": 38.9784, "lon": -76.4922, "tz": "America/New_York"}},
+  {"name": "College Park", "stateCode": "MD", "state": "Maryland", "county": "Prince George's", "metro": "Washington DC", "population": 32303, "geo": {"lat": 38.9807, "lon": -76.9369, "tz": "America/New_York"}},
+  {"name": "Salisbury", "stateCode": "MD", "state": "Maryland", "county": "Wicomico", "metro": "Salisbury", "population": 33618, "geo": {"lat": 38.3607, "lon": -75.5994, "tz": "America/New_York"}},
+  {"name": "Laurel", "stateCode": "MD", "state": "Maryland", "county": "Prince George's", "metro": "Washington DC", "population": 26593, "geo": {"lat": 39.0993, "lon": -76.8483, "tz": "America/New_York"}},
+  {"name": "Greenbelt", "stateCode": "MD", "state": "Maryland", "county": "Prince George's", "metro": "Washington DC", "population": 24921, "geo": {"lat": 38.9956, "lon": -76.8892, "tz": "America/New_York"}},
+  {"name": "Cumberland", "stateCode": "MD", "state": "Maryland", "county": "Allegany", "metro": "Cumberland", "population": 19812, "geo": {"lat": 39.6528, "lon": -78.7625, "tz": "America/New_York"}},
+  {"name": "Bethesda", "stateCode": "MD", "state": "Maryland", "county": "Montgomery", "metro": "Washington DC", "population": 63374, "geo": {"lat": 38.9847, "lon": -77.0947, "tz": "America/New_York"}},
+  {"name": "Silver Spring", "stateCode": "MD", "state": "Maryland", "county": "Montgomery", "metro": "Washington DC", "population": 81015, "geo": {"lat": 38.9907, "lon": -77.0261, "tz": "America/New_York"}},
+  {"name": "Germantown", "stateCode": "MD", "state": "Maryland", "county": "Montgomery", "metro": "Washington DC", "population": 91249, "geo": {"lat": 39.1732, "lon": -77.2717, "tz": "America/New_York"}}
+]

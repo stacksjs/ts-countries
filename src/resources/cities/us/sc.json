@@ -1,0 +1,17 @@
+[
+  {"name": "Charleston", "stateCode": "SC", "state": "South Carolina", "county": "Charleston", "metro": "Charleston", "population": 150227, "geo": {"lat": 32.7765, "lon": -79.9311, "tz": "America/New_York"}},
+  {"name": "Columbia", "stateCode": "SC", "state": "South Carolina", "county": "Richland", "metro": "Columbia", "population": 136632, "geo": {"lat": 34.0007, "lon": -81.0348, "tz": "America/New_York"}},
+  {"name": "North Charleston", "stateCode": "SC", "state": "South Carolina", "county": "Charleston", "metro": "Charleston", "population": 114852, "geo": {"lat": 32.8546, "lon": -79.9748, "tz": "America/New_York"}},
+  {"name": "Mount Pleasant", "stateCode": "SC", "state": "South Carolina", "county": "Charleston", "metro": "Charleston", "population": 94501, "geo": {"lat": 32.8323, "lon": -79.8284, "tz": "America/New_York"}},
+  {"name": "Rock Hill", "stateCode": "SC", "state": "South Carolina", "county": "York", "metro": "Charlotte", "population": 75048, "geo": {"lat": 34.9249, "lon": -81.0251, "tz": "America/New_York"}},
+  {"name": "Greenville", "stateCode": "SC", "state": "South Carolina", "county": "Greenville", "metro": "Greenville-Spartanburg", "population": 72095, "geo": {"lat": 34.8526, "lon": -82.3940, "tz": "America/New_York"}},
+  {"name": "Summerville", "stateCode": "SC", "state": "South Carolina", "county": "Dorchester", "metro": "Charleston", "population": 53643, "geo": {"lat": 33.0185, "lon": -80.1756, "tz": "America/New_York"}},
+  {"name": "Spartanburg", "stateCode": "SC", "state": "South Carolina", "county": "Spartanburg", "metro": "Greenville-Spartanburg", "population": 38756, "geo": {"lat": 34.9496, "lon": -81.9320, "tz": "America/New_York"}},
+  {"name": "Goose Creek", "stateCode": "SC", "state": "South Carolina", "county": "Berkeley", "metro": "Charleston", "population": 44605, "geo": {"lat": 32.9810, "lon": -80.0326, "tz": "America/New_York"}},
+  {"name": "Hilton Head Island", "stateCode": "SC", "state": "South Carolina", "county": "Beaufort", "metro": "Hilton Head", "population": 40000, "geo": {"lat": 32.2163, "lon": -80.7526, "tz": "America/New_York"}},
+  {"name": "Florence", "stateCode": "SC", "state": "South Carolina", "county": "Florence", "metro": "Florence", "population": 38720, "geo": {"lat": 34.1954, "lon": -79.7626, "tz": "America/New_York"}},
+  {"name": "Myrtle Beach", "stateCode": "SC", "state": "South Carolina", "county": "Horry", "metro": "Myrtle Beach", "population": 35682, "geo": {"lat": 33.6891, "lon": -78.8867, "tz": "America/New_York"}},
+  {"name": "Anderson", "stateCode": "SC", "state": "South Carolina", "county": "Anderson", "metro": "Greenville-Spartanburg", "population": 28432, "geo": {"lat": 34.5034, "lon": -82.6501, "tz": "America/New_York"}},
+  {"name": "Aiken", "stateCode": "SC", "state": "South Carolina", "county": "Aiken", "metro": "Augusta", "population": 31458, "geo": {"lat": 33.5604, "lon": -81.7196, "tz": "America/New_York"}},
+  {"name": "Greer", "stateCode": "SC", "state": "South Carolina", "county": "Greenville", "metro": "Greenville-Spartanburg", "population": 35308, "geo": {"lat": 34.9388, "lon": -82.2271, "tz": "America/New_York"}}
+]

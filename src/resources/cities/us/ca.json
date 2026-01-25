@@ -1,0 +1,1136 @@
+{
+  "los-angeles": {
+    "name": "Los Angeles",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 3898747,
+    "geo": { "latitude": 34.0522, "longitude": -118.2437, "timezone": "America/Los_Angeles" }
+  },
+  "san-diego": {
+    "name": "San Diego",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 1386932,
+    "geo": { "latitude": 32.7157, "longitude": -117.1611, "timezone": "America/Los_Angeles" }
+  },
+  "san-jose": {
+    "name": "San Jose",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Santa Clara",
+    "metro": "San Jose-Sunnyvale-Santa Clara",
+    "population": 1013240,
+    "geo": { "latitude": 37.3382, "longitude": -121.8863, "timezone": "America/Los_Angeles" }
+  },
+  "san-francisco": {
+    "name": "San Francisco",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Francisco",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 873965,
+    "geo": { "latitude": 37.7749, "longitude": -122.4194, "timezone": "America/Los_Angeles" }
+  },
+  "fresno": {
+    "name": "Fresno",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Fresno",
+    "metro": "Fresno",
+    "population": 542107,
+    "geo": { "latitude": 36.7378, "longitude": -119.7871, "timezone": "America/Los_Angeles" }
+  },
+  "sacramento": {
+    "name": "Sacramento",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Sacramento",
+    "metro": "Sacramento-Roseville-Folsom",
+    "population": 524943,
+    "geo": { "latitude": 38.5816, "longitude": -121.4944, "timezone": "America/Los_Angeles" }
+  },
+  "long-beach": {
+    "name": "Long Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 466742,
+    "geo": { "latitude": 33.7701, "longitude": -118.1937, "timezone": "America/Los_Angeles" }
+  },
+  "oakland": {
+    "name": "Oakland",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Alameda",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 433031,
+    "geo": { "latitude": 37.8044, "longitude": -122.2712, "timezone": "America/Los_Angeles" }
+  },
+  "bakersfield": {
+    "name": "Bakersfield",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Kern",
+    "metro": "Bakersfield",
+    "population": 403455,
+    "geo": { "latitude": 35.3733, "longitude": -119.0187, "timezone": "America/Los_Angeles" }
+  },
+  "anaheim": {
+    "name": "Anaheim",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 350365,
+    "geo": { "latitude": 33.8366, "longitude": -117.9143, "timezone": "America/Los_Angeles" }
+  },
+  "santa-ana": {
+    "name": "Santa Ana",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 310227,
+    "geo": { "latitude": 33.7455, "longitude": -117.8677, "timezone": "America/Los_Angeles" }
+  },
+  "riverside": {
+    "name": "Riverside",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 314998,
+    "geo": { "latitude": 33.9533, "longitude": -117.3962, "timezone": "America/Los_Angeles" }
+  },
+  "stockton": {
+    "name": "Stockton",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Joaquin",
+    "metro": "Stockton",
+    "population": 320804,
+    "geo": { "latitude": 37.9577, "longitude": -121.2908, "timezone": "America/Los_Angeles" }
+  },
+  "irvine": {
+    "name": "Irvine",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 307670,
+    "geo": { "latitude": 33.6846, "longitude": -117.8265, "timezone": "America/Los_Angeles" }
+  },
+  "chula-vista": {
+    "name": "Chula Vista",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 275487,
+    "geo": { "latitude": 32.6401, "longitude": -117.0842, "timezone": "America/Los_Angeles" }
+  },
+  "fremont": {
+    "name": "Fremont",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Alameda",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 230504,
+    "geo": { "latitude": 37.5485, "longitude": -121.9886, "timezone": "America/Los_Angeles" }
+  },
+  "san-bernardino": {
+    "name": "San Bernardino",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 222101,
+    "geo": { "latitude": 34.1083, "longitude": -117.2898, "timezone": "America/Los_Angeles" }
+  },
+  "modesto": {
+    "name": "Modesto",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Stanislaus",
+    "metro": "Modesto",
+    "population": 218464,
+    "geo": { "latitude": 37.6391, "longitude": -120.9969, "timezone": "America/Los_Angeles" }
+  },
+  "fontana": {
+    "name": "Fontana",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 214547,
+    "geo": { "latitude": 34.0922, "longitude": -117.4350, "timezone": "America/Los_Angeles" }
+  },
+  "moreno-valley": {
+    "name": "Moreno Valley",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 212751,
+    "geo": { "latitude": 33.9425, "longitude": -117.2297, "timezone": "America/Los_Angeles" }
+  },
+  "santa-clarita": {
+    "name": "Santa Clarita",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 228673,
+    "geo": { "latitude": 34.3917, "longitude": -118.5426, "timezone": "America/Los_Angeles" }
+  },
+  "glendale": {
+    "name": "Glendale",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 196543,
+    "geo": { "latitude": 34.1425, "longitude": -118.2551, "timezone": "America/Los_Angeles" }
+  },
+  "huntington-beach": {
+    "name": "Huntington Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 198711,
+    "geo": { "latitude": 33.6595, "longitude": -117.9988, "timezone": "America/Los_Angeles" }
+  },
+  "garden-grove": {
+    "name": "Garden Grove",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 172646,
+    "geo": { "latitude": 33.7743, "longitude": -117.9380, "timezone": "America/Los_Angeles" }
+  },
+  "oceanside": {
+    "name": "Oceanside",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 176193,
+    "geo": { "latitude": 33.1959, "longitude": -117.3795, "timezone": "America/Los_Angeles" }
+  },
+  "rancho-cucamonga": {
+    "name": "Rancho Cucamonga",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 177603,
+    "geo": { "latitude": 34.1064, "longitude": -117.5931, "timezone": "America/Los_Angeles" }
+  },
+  "ontario": {
+    "name": "Ontario",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 175265,
+    "geo": { "latitude": 34.0633, "longitude": -117.6509, "timezone": "America/Los_Angeles" }
+  },
+  "santa-rosa": {
+    "name": "Santa Rosa",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Sonoma",
+    "metro": "Santa Rosa-Petaluma",
+    "population": 178127,
+    "geo": { "latitude": 38.4405, "longitude": -122.7144, "timezone": "America/Los_Angeles" }
+  },
+  "elk-grove": {
+    "name": "Elk Grove",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Sacramento",
+    "metro": "Sacramento-Roseville-Folsom",
+    "population": 176124,
+    "geo": { "latitude": 38.4088, "longitude": -121.3716, "timezone": "America/Los_Angeles" }
+  },
+  "corona": {
+    "name": "Corona",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 157136,
+    "geo": { "latitude": 33.8753, "longitude": -117.5664, "timezone": "America/Los_Angeles" }
+  },
+  "lancaster": {
+    "name": "Lancaster",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 173516,
+    "geo": { "latitude": 34.6868, "longitude": -118.1542, "timezone": "America/Los_Angeles" }
+  },
+  "palmdale": {
+    "name": "Palmdale",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 169450,
+    "geo": { "latitude": 34.5794, "longitude": -118.1165, "timezone": "America/Los_Angeles" }
+  },
+  "salinas": {
+    "name": "Salinas",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Monterey",
+    "metro": "Salinas",
+    "population": 163542,
+    "geo": { "latitude": 36.6777, "longitude": -121.6555, "timezone": "America/Los_Angeles" }
+  },
+  "pomona": {
+    "name": "Pomona",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 151348,
+    "geo": { "latitude": 34.0551, "longitude": -117.7500, "timezone": "America/Los_Angeles" }
+  },
+  "hayward": {
+    "name": "Hayward",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Alameda",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 162954,
+    "geo": { "latitude": 37.6688, "longitude": -122.0808, "timezone": "America/Los_Angeles" }
+  },
+  "escondido": {
+    "name": "Escondido",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 151038,
+    "geo": { "latitude": 33.1192, "longitude": -117.0864, "timezone": "America/Los_Angeles" }
+  },
+  "sunnyvale": {
+    "name": "Sunnyvale",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Santa Clara",
+    "metro": "San Jose-Sunnyvale-Santa Clara",
+    "population": 155805,
+    "geo": { "latitude": 37.3688, "longitude": -122.0363, "timezone": "America/Los_Angeles" }
+  },
+  "torrance": {
+    "name": "Torrance",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 145014,
+    "geo": { "latitude": 33.8358, "longitude": -118.3406, "timezone": "America/Los_Angeles" }
+  },
+  "pasadena": {
+    "name": "Pasadena",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 138699,
+    "geo": { "latitude": 34.1478, "longitude": -118.1445, "timezone": "America/Los_Angeles" }
+  },
+  "orange": {
+    "name": "Orange",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 139911,
+    "geo": { "latitude": 33.7879, "longitude": -117.8531, "timezone": "America/Los_Angeles" }
+  },
+  "fullerton": {
+    "name": "Fullerton",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 139132,
+    "geo": { "latitude": 33.8703, "longitude": -117.9242, "timezone": "America/Los_Angeles" }
+  },
+  "thousand-oaks": {
+    "name": "Thousand Oaks",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Ventura",
+    "metro": "Oxnard-Thousand Oaks-Ventura",
+    "population": 126966,
+    "geo": { "latitude": 34.1706, "longitude": -118.8376, "timezone": "America/Los_Angeles" }
+  },
+  "roseville": {
+    "name": "Roseville",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Placer",
+    "metro": "Sacramento-Roseville-Folsom",
+    "population": 147773,
+    "geo": { "latitude": 38.7521, "longitude": -121.2880, "timezone": "America/Los_Angeles" }
+  },
+  "concord": {
+    "name": "Concord",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Contra Costa",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 129295,
+    "geo": { "latitude": 37.9780, "longitude": -122.0311, "timezone": "America/Los_Angeles" }
+  },
+  "simi-valley": {
+    "name": "Simi Valley",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Ventura",
+    "metro": "Oxnard-Thousand Oaks-Ventura",
+    "population": 126356,
+    "geo": { "latitude": 34.2694, "longitude": -118.7815, "timezone": "America/Los_Angeles" }
+  },
+  "santa-clara": {
+    "name": "Santa Clara",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Santa Clara",
+    "metro": "San Jose-Sunnyvale-Santa Clara",
+    "population": 127647,
+    "geo": { "latitude": 37.3541, "longitude": -121.9552, "timezone": "America/Los_Angeles" }
+  },
+  "victorville": {
+    "name": "Victorville",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 134810,
+    "geo": { "latitude": 34.5362, "longitude": -117.2928, "timezone": "America/Los_Angeles" }
+  },
+  "vallejo": {
+    "name": "Vallejo",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Solano",
+    "metro": "Vallejo",
+    "population": 121692,
+    "geo": { "latitude": 38.1041, "longitude": -122.2566, "timezone": "America/Los_Angeles" }
+  },
+  "berkeley": {
+    "name": "Berkeley",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Alameda",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 124321,
+    "geo": { "latitude": 37.8716, "longitude": -122.2727, "timezone": "America/Los_Angeles" }
+  },
+  "el-monte": {
+    "name": "El Monte",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 113475,
+    "geo": { "latitude": 34.0686, "longitude": -118.0276, "timezone": "America/Los_Angeles" }
+  },
+  "downey": {
+    "name": "Downey",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 111772,
+    "geo": { "latitude": 33.9401, "longitude": -118.1332, "timezone": "America/Los_Angeles" }
+  },
+  "costa-mesa": {
+    "name": "Costa Mesa",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 112174,
+    "geo": { "latitude": 33.6412, "longitude": -117.9187, "timezone": "America/Los_Angeles" }
+  },
+  "inglewood": {
+    "name": "Inglewood",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 107762,
+    "geo": { "latitude": 33.9617, "longitude": -118.3531, "timezone": "America/Los_Angeles" }
+  },
+  "carlsbad": {
+    "name": "Carlsbad",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 114746,
+    "geo": { "latitude": 33.1581, "longitude": -117.3506, "timezone": "America/Los_Angeles" }
+  },
+  "san-buenaventura": {
+    "name": "Ventura",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Ventura",
+    "metro": "Oxnard-Thousand Oaks-Ventura",
+    "population": 109106,
+    "geo": { "latitude": 34.2746, "longitude": -119.2290, "timezone": "America/Los_Angeles" }
+  },
+  "fairfield": {
+    "name": "Fairfield",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Solano",
+    "metro": "Vallejo",
+    "population": 119881,
+    "geo": { "latitude": 38.2494, "longitude": -122.0400, "timezone": "America/Los_Angeles" }
+  },
+  "west-covina": {
+    "name": "West Covina",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 106098,
+    "geo": { "latitude": 34.0686, "longitude": -117.9390, "timezone": "America/Los_Angeles" }
+  },
+  "murrieta": {
+    "name": "Murrieta",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 113326,
+    "geo": { "latitude": 33.5539, "longitude": -117.2139, "timezone": "America/Los_Angeles" }
+  },
+  "richmond": {
+    "name": "Richmond",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Contra Costa",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 116448,
+    "geo": { "latitude": 37.9358, "longitude": -122.3477, "timezone": "America/Los_Angeles" }
+  },
+  "norwalk": {
+    "name": "Norwalk",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 105549,
+    "geo": { "latitude": 33.9022, "longitude": -118.0817, "timezone": "America/Los_Angeles" }
+  },
+  "antioch": {
+    "name": "Antioch",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Contra Costa",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 115291,
+    "geo": { "latitude": 38.0049, "longitude": -121.8058, "timezone": "America/Los_Angeles" }
+  },
+  "temecula": {
+    "name": "Temecula",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 110003,
+    "geo": { "latitude": 33.4936, "longitude": -117.1484, "timezone": "America/Los_Angeles" }
+  },
+  "burbank": {
+    "name": "Burbank",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 107337,
+    "geo": { "latitude": 34.1808, "longitude": -118.3090, "timezone": "America/Los_Angeles" }
+  },
+  "daly-city": {
+    "name": "Daly City",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Mateo",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 104901,
+    "geo": { "latitude": 37.6879, "longitude": -122.4702, "timezone": "America/Los_Angeles" }
+  },
+  "el-cajon": {
+    "name": "El Cajon",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 106215,
+    "geo": { "latitude": 32.7948, "longitude": -116.9625, "timezone": "America/Los_Angeles" }
+  },
+  "oxnard": {
+    "name": "Oxnard",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Ventura",
+    "metro": "Oxnard-Thousand Oaks-Ventura",
+    "population": 202063,
+    "geo": { "latitude": 34.1975, "longitude": -119.1771, "timezone": "America/Los_Angeles" }
+  },
+  "rialto": {
+    "name": "Rialto",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 104026,
+    "geo": { "latitude": 34.1064, "longitude": -117.3703, "timezone": "America/Los_Angeles" }
+  },
+  "visalia": {
+    "name": "Visalia",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Tulare",
+    "metro": "Visalia",
+    "population": 141384,
+    "geo": { "latitude": 36.3302, "longitude": -119.2921, "timezone": "America/Los_Angeles" }
+  },
+  "san-mateo": {
+    "name": "San Mateo",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Mateo",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 105661,
+    "geo": { "latitude": 37.5630, "longitude": -122.3255, "timezone": "America/Los_Angeles" }
+  },
+  "santa-maria": {
+    "name": "Santa Maria",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Santa Barbara",
+    "metro": "Santa Maria-Santa Barbara",
+    "population": 109988,
+    "geo": { "latitude": 34.9530, "longitude": -120.4357, "timezone": "America/Los_Angeles" }
+  },
+  "clovis": {
+    "name": "Clovis",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Fresno",
+    "metro": "Fresno",
+    "population": 120124,
+    "geo": { "latitude": 36.8252, "longitude": -119.7029, "timezone": "America/Los_Angeles" }
+  },
+  "santa-monica": {
+    "name": "Santa Monica",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 93076,
+    "geo": { "latitude": 34.0195, "longitude": -118.4912, "timezone": "America/Los_Angeles" }
+  },
+  "san-marcos": {
+    "name": "San Marcos",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 97479,
+    "geo": { "latitude": 33.1434, "longitude": -117.1661, "timezone": "America/Los_Angeles" }
+  },
+  "compton": {
+    "name": "Compton",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 97877,
+    "geo": { "latitude": 33.8958, "longitude": -118.2201, "timezone": "America/Los_Angeles" }
+  },
+  "mission-viejo": {
+    "name": "Mission Viejo",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 95638,
+    "geo": { "latitude": 33.6000, "longitude": -117.6720, "timezone": "America/Los_Angeles" }
+  },
+  "south-gate": {
+    "name": "South Gate",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 94396,
+    "geo": { "latitude": 33.9547, "longitude": -118.2120, "timezone": "America/Los_Angeles" }
+  },
+  "carson": {
+    "name": "Carson",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 95513,
+    "geo": { "latitude": 33.8317, "longitude": -118.2620, "timezone": "America/Los_Angeles" }
+  },
+  "hesperia": {
+    "name": "Hesperia",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 99818,
+    "geo": { "latitude": 34.4264, "longitude": -117.3009, "timezone": "America/Los_Angeles" }
+  },
+  "santa-barbara": {
+    "name": "Santa Barbara",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Santa Barbara",
+    "metro": "Santa Maria-Santa Barbara",
+    "population": 88665,
+    "geo": { "latitude": 34.4208, "longitude": -119.6982, "timezone": "America/Los_Angeles" }
+  },
+  "vista": {
+    "name": "Vista",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 101638,
+    "geo": { "latitude": 33.2000, "longitude": -117.2425, "timezone": "America/Los_Angeles" }
+  },
+  "vacaville": {
+    "name": "Vacaville",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Solano",
+    "metro": "Vallejo",
+    "population": 103778,
+    "geo": { "latitude": 38.3566, "longitude": -121.9877, "timezone": "America/Los_Angeles" }
+  },
+  "redding": {
+    "name": "Redding",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Shasta",
+    "metro": "Redding",
+    "population": 92553,
+    "geo": { "latitude": 40.5865, "longitude": -122.3917, "timezone": "America/Los_Angeles" }
+  },
+  "chico": {
+    "name": "Chico",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Butte",
+    "metro": "Chico",
+    "population": 101475,
+    "geo": { "latitude": 39.7285, "longitude": -121.8375, "timezone": "America/Los_Angeles" }
+  },
+  "newport-beach": {
+    "name": "Newport Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 85239,
+    "geo": { "latitude": 33.6189, "longitude": -117.9289, "timezone": "America/Los_Angeles" }
+  },
+  "san-leandro": {
+    "name": "San Leandro",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Alameda",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 91799,
+    "geo": { "latitude": 37.7249, "longitude": -122.1561, "timezone": "America/Los_Angeles" }
+  },
+  "indio": {
+    "name": "Indio",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 92539,
+    "geo": { "latitude": 33.7206, "longitude": -116.2156, "timezone": "America/Los_Angeles" }
+  },
+  "tracy": {
+    "name": "Tracy",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Joaquin",
+    "metro": "Stockton",
+    "population": 93092,
+    "geo": { "latitude": 37.7397, "longitude": -121.4252, "timezone": "America/Los_Angeles" }
+  },
+  "livermore": {
+    "name": "Livermore",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Alameda",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 90189,
+    "geo": { "latitude": 37.6819, "longitude": -121.7680, "timezone": "America/Los_Angeles" }
+  },
+  "menifee": {
+    "name": "Menifee",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 102527,
+    "geo": { "latitude": 33.6972, "longitude": -117.1850, "timezone": "America/Los_Angeles" }
+  },
+  "hemet": {
+    "name": "Hemet",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 90403,
+    "geo": { "latitude": 33.7476, "longitude": -116.9719, "timezone": "America/Los_Angeles" }
+  },
+  "napa": {
+    "name": "Napa",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Napa",
+    "metro": "Napa",
+    "population": 79068,
+    "geo": { "latitude": 38.2975, "longitude": -122.2869, "timezone": "America/Los_Angeles" }
+  },
+  "merced": {
+    "name": "Merced",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Merced",
+    "metro": "Merced",
+    "population": 86333,
+    "geo": { "latitude": 37.3022, "longitude": -120.4830, "timezone": "America/Los_Angeles" }
+  },
+  "redwood-city": {
+    "name": "Redwood City",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Mateo",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 84518,
+    "geo": { "latitude": 37.4852, "longitude": -122.2364, "timezone": "America/Los_Angeles" }
+  },
+  "lake-forest": {
+    "name": "Lake Forest",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 85623,
+    "geo": { "latitude": 33.6470, "longitude": -117.6890, "timezone": "America/Los_Angeles" }
+  },
+  "chino": {
+    "name": "Chino",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 91403,
+    "geo": { "latitude": 34.0122, "longitude": -117.6889, "timezone": "America/Los_Angeles" }
+  },
+  "tustin": {
+    "name": "Tustin",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 80276,
+    "geo": { "latitude": 33.7458, "longitude": -117.8262, "timezone": "America/Los_Angeles" }
+  },
+  "san-ramon": {
+    "name": "San Ramon",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Contra Costa",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 84605,
+    "geo": { "latitude": 37.7799, "longitude": -121.9780, "timezone": "America/Los_Angeles" }
+  },
+  "chino-hills": {
+    "name": "Chino Hills",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 83853,
+    "geo": { "latitude": 33.9898, "longitude": -117.7326, "timezone": "America/Los_Angeles" }
+  },
+  "buena-park": {
+    "name": "Buena Park",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 82155,
+    "geo": { "latitude": 33.8675, "longitude": -117.9981, "timezone": "America/Los_Angeles" }
+  },
+  "folsom": {
+    "name": "Folsom",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Sacramento",
+    "metro": "Sacramento-Roseville-Folsom",
+    "population": 82590,
+    "geo": { "latitude": 38.6780, "longitude": -121.1761, "timezone": "America/Los_Angeles" }
+  },
+  "pleasanton": {
+    "name": "Pleasanton",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Alameda",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 79871,
+    "geo": { "latitude": 37.6624, "longitude": -121.8747, "timezone": "America/Los_Angeles" }
+  },
+  "alameda": {
+    "name": "Alameda",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Alameda",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 79177,
+    "geo": { "latitude": 37.7652, "longitude": -122.2416, "timezone": "America/Los_Angeles" }
+  },
+  "mountain-view": {
+    "name": "Mountain View",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Santa Clara",
+    "metro": "San Jose-Sunnyvale-Santa Clara",
+    "population": 82376,
+    "geo": { "latitude": 37.3861, "longitude": -122.0839, "timezone": "America/Los_Angeles" }
+  },
+  "upland": {
+    "name": "Upland",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Bernardino",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 79040,
+    "geo": { "latitude": 34.0975, "longitude": -117.6484, "timezone": "America/Los_Angeles" }
+  },
+  "whittier": {
+    "name": "Whittier",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 87438,
+    "geo": { "latitude": 33.9792, "longitude": -118.0328, "timezone": "America/Los_Angeles" }
+  },
+  "lodi": {
+    "name": "Lodi",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Joaquin",
+    "metro": "Stockton",
+    "population": 66348,
+    "geo": { "latitude": 38.1302, "longitude": -121.2724, "timezone": "America/Los_Angeles" }
+  },
+  "palo-alto": {
+    "name": "Palo Alto",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Santa Clara",
+    "metro": "San Jose-Sunnyvale-Santa Clara",
+    "population": 68572,
+    "geo": { "latitude": 37.4419, "longitude": -122.1430, "timezone": "America/Los_Angeles" }
+  },
+  "alhambra": {
+    "name": "Alhambra",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 82868,
+    "geo": { "latitude": 34.0953, "longitude": -118.1270, "timezone": "America/Los_Angeles" }
+  },
+  "encinitas": {
+    "name": "Encinitas",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 62183,
+    "geo": { "latitude": 33.0370, "longitude": -117.2920, "timezone": "America/Los_Angeles" }
+  },
+  "la-jolla": {
+    "name": "La Jolla",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 46781,
+    "geo": { "latitude": 32.8328, "longitude": -117.2713, "timezone": "America/Los_Angeles" }
+  },
+  "beverly-hills": {
+    "name": "Beverly Hills",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 33792,
+    "geo": { "latitude": 34.0736, "longitude": -118.4004, "timezone": "America/Los_Angeles" }
+  },
+  "west-hollywood": {
+    "name": "West Hollywood",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 35716,
+    "geo": { "latitude": 34.0900, "longitude": -118.3617, "timezone": "America/Los_Angeles" }
+  },
+  "culver-city": {
+    "name": "Culver City",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 39185,
+    "geo": { "latitude": 34.0211, "longitude": -118.3965, "timezone": "America/Los_Angeles" }
+  },
+  "malibu": {
+    "name": "Malibu",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 12645,
+    "geo": { "latitude": 34.0259, "longitude": -118.7798, "timezone": "America/Los_Angeles" }
+  },
+  "venice": {
+    "name": "Venice",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 40885,
+    "geo": { "latitude": 33.9850, "longitude": -118.4695, "timezone": "America/Los_Angeles" }
+  },
+  "manhattan-beach": {
+    "name": "Manhattan Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 35506,
+    "geo": { "latitude": 33.8847, "longitude": -118.4109, "timezone": "America/Los_Angeles" }
+  },
+  "hermosa-beach": {
+    "name": "Hermosa Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 19726,
+    "geo": { "latitude": 33.8622, "longitude": -118.3995, "timezone": "America/Los_Angeles" }
+  },
+  "redondo-beach": {
+    "name": "Redondo Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 67864,
+    "geo": { "latitude": 33.8492, "longitude": -118.3884, "timezone": "America/Los_Angeles" }
+  },
+  "laguna-beach": {
+    "name": "Laguna Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 23032,
+    "geo": { "latitude": 33.5427, "longitude": -117.7854, "timezone": "America/Los_Angeles" }
+  },
+  "palm-springs": {
+    "name": "Palm Springs",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 48518,
+    "geo": { "latitude": 33.8303, "longitude": -116.5453, "timezone": "America/Los_Angeles" }
+  },
+  "palm-desert": {
+    "name": "Palm Desert",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Riverside",
+    "metro": "Riverside-San Bernardino-Ontario",
+    "population": 53275,
+    "geo": { "latitude": 33.7222, "longitude": -116.3744, "timezone": "America/Los_Angeles" }
+  },
+  "rancho-palos-verdes": {
+    "name": "Rancho Palos Verdes",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 42448,
+    "geo": { "latitude": 33.7444, "longitude": -118.3870, "timezone": "America/Los_Angeles" }
+  },
+  "sausalito": {
+    "name": "Sausalito",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Marin",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 7194,
+    "geo": { "latitude": 37.8591, "longitude": -122.4853, "timezone": "America/Los_Angeles" }
+  },
+  "carmel-by-the-sea": {
+    "name": "Carmel-by-the-Sea",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Monterey",
+    "metro": "Salinas",
+    "population": 3897,
+    "geo": { "latitude": 36.5552, "longitude": -121.9233, "timezone": "America/Los_Angeles" }
+  },
+  "monterey": {
+    "name": "Monterey",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Monterey",
+    "metro": "Salinas",
+    "population": 28454,
+    "geo": { "latitude": 36.6002, "longitude": -121.8947, "timezone": "America/Los_Angeles" }
+  },
+  "santa-cruz": {
+    "name": "Santa Cruz",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Santa Cruz",
+    "metro": "Santa Cruz-Watsonville",
+    "population": 64725,
+    "geo": { "latitude": 36.9741, "longitude": -122.0308, "timezone": "America/Los_Angeles" }
+  }
+}

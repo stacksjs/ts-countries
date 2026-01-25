@@ -1,0 +1,4 @@
+[
+  {"name": "Bremen", "stateCode": "HB", "state": "Bremen", "county": "Bremen", "metro": "Bremen-Oldenburg", "population": 569352, "geo": {"lat": 53.0793, "lon": 8.8017, "tz": "Europe/Berlin"}},
+  {"name": "Bremerhaven", "stateCode": "HB", "state": "Bremen", "county": "Bremerhaven", "metro": "Bremen-Oldenburg", "population": 113643, "geo": {"lat": 53.5396, "lon": 8.5809, "tz": "Europe/Berlin"}}
+]

@@ -1,0 +1,18 @@
+[
+  {"name": "Portland", "stateCode": "OR", "state": "Oregon", "county": "Multnomah", "metro": "Portland-Vancouver", "population": 652503, "geo": {"lat": 45.5152, "lon": -122.6784, "tz": "America/Los_Angeles"}},
+  {"name": "Salem", "stateCode": "OR", "state": "Oregon", "county": "Marion", "metro": "Salem", "population": 177723, "geo": {"lat": 44.9429, "lon": -123.0351, "tz": "America/Los_Angeles"}},
+  {"name": "Eugene", "stateCode": "OR", "state": "Oregon", "county": "Lane", "metro": "Eugene-Springfield", "population": 176654, "geo": {"lat": 44.0521, "lon": -123.0868, "tz": "America/Los_Angeles"}},
+  {"name": "Gresham", "stateCode": "OR", "state": "Oregon", "county": "Multnomah", "metro": "Portland-Vancouver", "population": 114247, "geo": {"lat": 45.4998, "lon": -122.4313, "tz": "America/Los_Angeles"}},
+  {"name": "Hillsboro", "stateCode": "OR", "state": "Oregon", "county": "Washington", "metro": "Portland-Vancouver", "population": 106894, "geo": {"lat": 45.5229, "lon": -122.9898, "tz": "America/Los_Angeles"}},
+  {"name": "Beaverton", "stateCode": "OR", "state": "Oregon", "county": "Washington", "metro": "Portland-Vancouver", "population": 98962, "geo": {"lat": 45.4871, "lon": -122.8037, "tz": "America/Los_Angeles"}},
+  {"name": "Bend", "stateCode": "OR", "state": "Oregon", "county": "Deschutes", "metro": "Bend", "population": 102059, "geo": {"lat": 44.0582, "lon": -121.3153, "tz": "America/Los_Angeles"}},
+  {"name": "Medford", "stateCode": "OR", "state": "Oregon", "county": "Jackson", "metro": "Medford-Ashland", "population": 85824, "geo": {"lat": 42.3265, "lon": -122.8756, "tz": "America/Los_Angeles"}},
+  {"name": "Springfield", "stateCode": "OR", "state": "Oregon", "county": "Lane", "metro": "Eugene-Springfield", "population": 62256, "geo": {"lat": 44.0462, "lon": -123.0220, "tz": "America/Los_Angeles"}},
+  {"name": "Corvallis", "stateCode": "OR", "state": "Oregon", "county": "Benton", "metro": "Corvallis", "population": 59864, "geo": {"lat": 44.5646, "lon": -123.2620, "tz": "America/Los_Angeles"}},
+  {"name": "Albany", "stateCode": "OR", "state": "Oregon", "county": "Linn", "metro": "Albany-Corvallis", "population": 56828, "geo": {"lat": 44.6365, "lon": -123.1059, "tz": "America/Los_Angeles"}},
+  {"name": "Tigard", "stateCode": "OR", "state": "Oregon", "county": "Washington", "metro": "Portland-Vancouver", "population": 55767, "geo": {"lat": 45.4312, "lon": -122.7715, "tz": "America/Los_Angeles"}},
+  {"name": "Lake Oswego", "stateCode": "OR", "state": "Oregon", "county": "Clackamas", "metro": "Portland-Vancouver", "population": 40962, "geo": {"lat": 45.4207, "lon": -122.6706, "tz": "America/Los_Angeles"}},
+  {"name": "Keizer", "stateCode": "OR", "state": "Oregon", "county": "Marion", "metro": "Salem", "population": 42442, "geo": {"lat": 44.9901, "lon": -123.0262, "tz": "America/Los_Angeles"}},
+  {"name": "Grants Pass", "stateCode": "OR", "state": "Oregon", "county": "Josephine", "metro": "Grants Pass", "population": 38867, "geo": {"lat": 42.4390, "lon": -123.3284, "tz": "America/Los_Angeles"}},
+  {"name": "Ashland", "stateCode": "OR", "state": "Oregon", "county": "Jackson", "metro": "Medford-Ashland", "population": 21555, "geo": {"lat": 42.1946, "lon": -122.7095, "tz": "America/Los_Angeles"}}
+]

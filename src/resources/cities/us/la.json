@@ -1,0 +1,17 @@
+[
+  {"name": "New Orleans", "stateCode": "LA", "state": "Louisiana", "county": "Orleans Parish", "metro": "New Orleans", "population": 383997, "geo": {"lat": 29.9511, "lon": -90.0715, "tz": "America/Chicago"}},
+  {"name": "Baton Rouge", "stateCode": "LA", "state": "Louisiana", "county": "East Baton Rouge Parish", "metro": "Baton Rouge", "population": 227470, "geo": {"lat": 30.4515, "lon": -91.1871, "tz": "America/Chicago"}},
+  {"name": "Shreveport", "stateCode": "LA", "state": "Louisiana", "county": "Caddo Parish", "metro": "Shreveport-Bossier City", "population": 187112, "geo": {"lat": 32.5252, "lon": -93.7502, "tz": "America/Chicago"}},
+  {"name": "Metairie", "stateCode": "LA", "state": "Louisiana", "county": "Jefferson Parish", "metro": "New Orleans", "population": 145323, "geo": {"lat": 29.9841, "lon": -90.1528, "tz": "America/Chicago"}},
+  {"name": "Lafayette", "stateCode": "LA", "state": "Louisiana", "county": "Lafayette Parish", "metro": "Lafayette", "population": 121374, "geo": {"lat": 30.2241, "lon": -92.0198, "tz": "America/Chicago"}},
+  {"name": "Lake Charles", "stateCode": "LA", "state": "Louisiana", "county": "Calcasieu Parish", "metro": "Lake Charles", "population": 83137, "geo": {"lat": 30.2266, "lon": -93.2174, "tz": "America/Chicago"}},
+  {"name": "Kenner", "stateCode": "LA", "state": "Louisiana", "county": "Jefferson Parish", "metro": "New Orleans", "population": 66702, "geo": {"lat": 29.9941, "lon": -90.2417, "tz": "America/Chicago"}},
+  {"name": "Bossier City", "stateCode": "LA", "state": "Louisiana", "county": "Bossier Parish", "metro": "Shreveport-Bossier City", "population": 68094, "geo": {"lat": 32.5160, "lon": -93.7321, "tz": "America/Chicago"}},
+  {"name": "Monroe", "stateCode": "LA", "state": "Louisiana", "county": "Ouachita Parish", "metro": "Monroe", "population": 47702, "geo": {"lat": 32.5093, "lon": -92.1193, "tz": "America/Chicago"}},
+  {"name": "Alexandria", "stateCode": "LA", "state": "Louisiana", "county": "Rapides Parish", "metro": "Alexandria", "population": 46545, "geo": {"lat": 31.3113, "lon": -92.4451, "tz": "America/Chicago"}},
+  {"name": "Houma", "stateCode": "LA", "state": "Louisiana", "county": "Terrebonne Parish", "metro": "Houma-Thibodaux", "population": 33076, "geo": {"lat": 29.5958, "lon": -90.7195, "tz": "America/Chicago"}},
+  {"name": "Marrero", "stateCode": "LA", "state": "Louisiana", "county": "Jefferson Parish", "metro": "New Orleans", "population": 31478, "geo": {"lat": 29.8994, "lon": -90.1004, "tz": "America/Chicago"}},
+  {"name": "New Iberia", "stateCode": "LA", "state": "Louisiana", "county": "Iberia Parish", "metro": "New Iberia", "population": 29073, "geo": {"lat": 30.0035, "lon": -91.8187, "tz": "America/Chicago"}},
+  {"name": "Slidell", "stateCode": "LA", "state": "Louisiana", "county": "St. Tammany Parish", "metro": "New Orleans", "population": 28276, "geo": {"lat": 30.2752, "lon": -89.7812, "tz": "America/Chicago"}},
+  {"name": "Central", "stateCode": "LA", "state": "Louisiana", "county": "East Baton Rouge Parish", "metro": "Baton Rouge", "population": 29555, "geo": {"lat": 30.5544, "lon": -91.0368, "tz": "America/Chicago"}}
+]

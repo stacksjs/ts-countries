@@ -1,0 +1,17 @@
+[
+  {"name": "Milwaukee", "stateCode": "WI", "state": "Wisconsin", "county": "Milwaukee", "metro": "Milwaukee", "population": 577222, "geo": {"lat": 43.0389, "lon": -87.9065, "tz": "America/Chicago"}},
+  {"name": "Madison", "stateCode": "WI", "state": "Wisconsin", "county": "Dane", "metro": "Madison", "population": 269840, "geo": {"lat": 43.0731, "lon": -89.4012, "tz": "America/Chicago"}},
+  {"name": "Green Bay", "stateCode": "WI", "state": "Wisconsin", "county": "Brown", "metro": "Green Bay", "population": 107395, "geo": {"lat": 44.5192, "lon": -88.0198, "tz": "America/Chicago"}},
+  {"name": "Kenosha", "stateCode": "WI", "state": "Wisconsin", "county": "Kenosha", "metro": "Chicago", "population": 99889, "geo": {"lat": 42.5847, "lon": -87.8212, "tz": "America/Chicago"}},
+  {"name": "Racine", "stateCode": "WI", "state": "Wisconsin", "county": "Racine", "metro": "Milwaukee-Racine", "population": 77816, "geo": {"lat": 42.7261, "lon": -87.7828, "tz": "America/Chicago"}},
+  {"name": "Appleton", "stateCode": "WI", "state": "Wisconsin", "county": "Outagamie", "metro": "Appleton-Oshkosh-Neenah", "population": 75644, "geo": {"lat": 44.2619, "lon": -88.4154, "tz": "America/Chicago"}},
+  {"name": "Waukesha", "stateCode": "WI", "state": "Wisconsin", "county": "Waukesha", "metro": "Milwaukee", "population": 71158, "geo": {"lat": 43.0117, "lon": -88.2314, "tz": "America/Chicago"}},
+  {"name": "Eau Claire", "stateCode": "WI", "state": "Wisconsin", "county": "Eau Claire", "metro": "Eau Claire", "population": 69421, "geo": {"lat": 44.8113, "lon": -91.4985, "tz": "America/Chicago"}},
+  {"name": "Oshkosh", "stateCode": "WI", "state": "Wisconsin", "county": "Winnebago", "metro": "Appleton-Oshkosh-Neenah", "population": 66816, "geo": {"lat": 44.0247, "lon": -88.5426, "tz": "America/Chicago"}},
+  {"name": "Janesville", "stateCode": "WI", "state": "Wisconsin", "county": "Rock", "metro": "Janesville-Beloit", "population": 65615, "geo": {"lat": 42.6828, "lon": -89.0187, "tz": "America/Chicago"}},
+  {"name": "West Allis", "stateCode": "WI", "state": "Wisconsin", "county": "Milwaukee", "metro": "Milwaukee", "population": 60411, "geo": {"lat": 43.0167, "lon": -88.0070, "tz": "America/Chicago"}},
+  {"name": "La Crosse", "stateCode": "WI", "state": "Wisconsin", "county": "La Crosse", "metro": "La Crosse-Onalaska", "population": 52680, "geo": {"lat": 43.8014, "lon": -91.2396, "tz": "America/Chicago"}},
+  {"name": "Sheboygan", "stateCode": "WI", "state": "Wisconsin", "county": "Sheboygan", "metro": "Sheboygan", "population": 49929, "geo": {"lat": 43.7508, "lon": -87.7145, "tz": "America/Chicago"}},
+  {"name": "Wauwatosa", "stateCode": "WI", "state": "Wisconsin", "county": "Milwaukee", "metro": "Milwaukee", "population": 48387, "geo": {"lat": 43.0495, "lon": -88.0076, "tz": "America/Chicago"}},
+  {"name": "Fond du Lac", "stateCode": "WI", "state": "Wisconsin", "county": "Fond du Lac", "metro": "Fond du Lac", "population": 44678, "geo": {"lat": 43.7730, "lon": -88.4470, "tz": "America/Chicago"}}
+]

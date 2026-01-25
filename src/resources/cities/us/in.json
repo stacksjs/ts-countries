@@ -1,0 +1,17 @@
+[
+  {"name": "Indianapolis", "stateCode": "IN", "state": "Indiana", "county": "Marion", "metro": "Indianapolis", "population": 887642, "geo": {"lat": 39.7684, "lon": -86.1581, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Fort Wayne", "stateCode": "IN", "state": "Indiana", "county": "Allen", "metro": "Fort Wayne", "population": 270402, "geo": {"lat": 41.0793, "lon": -85.1394, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Evansville", "stateCode": "IN", "state": "Indiana", "county": "Vanderburgh", "metro": "Evansville", "population": 117979, "geo": {"lat": 37.9716, "lon": -87.5711, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "South Bend", "stateCode": "IN", "state": "Indiana", "county": "St. Joseph", "metro": "South Bend-Mishawaka", "population": 103453, "geo": {"lat": 41.6764, "lon": -86.2520, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Carmel", "stateCode": "IN", "state": "Indiana", "county": "Hamilton", "metro": "Indianapolis", "population": 101068, "geo": {"lat": 39.9784, "lon": -86.1180, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Fishers", "stateCode": "IN", "state": "Indiana", "county": "Hamilton", "metro": "Indianapolis", "population": 98977, "geo": {"lat": 39.9567, "lon": -86.0133, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Bloomington", "stateCode": "IN", "state": "Indiana", "county": "Monroe", "metro": "Bloomington", "population": 79168, "geo": {"lat": 39.1653, "lon": -86.5264, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Hammond", "stateCode": "IN", "state": "Indiana", "county": "Lake", "metro": "Chicago", "population": 77879, "geo": {"lat": 41.5833, "lon": -87.5000, "tz": "America/Chicago"}},
+  {"name": "Gary", "stateCode": "IN", "state": "Indiana", "county": "Lake", "metro": "Chicago", "population": 69093, "geo": {"lat": 41.5934, "lon": -87.3464, "tz": "America/Chicago"}},
+  {"name": "Lafayette", "stateCode": "IN", "state": "Indiana", "county": "Tippecanoe", "metro": "Lafayette-West Lafayette", "population": 70783, "geo": {"lat": 40.4167, "lon": -86.8753, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Muncie", "stateCode": "IN", "state": "Indiana", "county": "Delaware", "metro": "Muncie", "population": 65194, "geo": {"lat": 40.1934, "lon": -85.3864, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Terre Haute", "stateCode": "IN", "state": "Indiana", "county": "Vigo", "metro": "Terre Haute", "population": 58389, "geo": {"lat": 39.4667, "lon": -87.4139, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Noblesville", "stateCode": "IN", "state": "Indiana", "county": "Hamilton", "metro": "Indianapolis", "population": 69604, "geo": {"lat": 40.0456, "lon": -86.0086, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Kokomo", "stateCode": "IN", "state": "Indiana", "county": "Howard", "metro": "Kokomo", "population": 58066, "geo": {"lat": 40.4864, "lon": -86.1336, "tz": "America/Indiana/Indianapolis"}},
+  {"name": "Anderson", "stateCode": "IN", "state": "Indiana", "county": "Madison", "metro": "Indianapolis", "population": 54476, "geo": {"lat": 40.1053, "lon": -85.6803, "tz": "America/Indiana/Indianapolis"}}
+]

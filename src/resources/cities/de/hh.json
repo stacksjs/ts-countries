@@ -1,0 +1,17 @@
+[
+  {"name": "Hamburg", "stateCode": "HH", "state": "Hamburg", "county": "Hamburg", "metro": "Hamburg", "population": 1853935, "geo": {"lat": 53.5511, "lon": 9.9937, "tz": "Europe/Berlin"}},
+  {"name": "Hamburg-Mitte", "stateCode": "HH", "state": "Hamburg", "county": "Hamburg-Mitte", "metro": "Hamburg", "population": 303168, "geo": {"lat": 53.5500, "lon": 10.0000, "tz": "Europe/Berlin"}},
+  {"name": "Altona", "stateCode": "HH", "state": "Hamburg", "county": "Altona", "metro": "Hamburg", "population": 274702, "geo": {"lat": 53.5500, "lon": 9.9333, "tz": "Europe/Berlin"}},
+  {"name": "Eimsbüttel", "stateCode": "HH", "state": "Hamburg", "county": "Eimsbüttel", "metro": "Hamburg", "population": 266663, "geo": {"lat": 53.5722, "lon": 9.9569, "tz": "Europe/Berlin"}},
+  {"name": "Hamburg-Nord", "stateCode": "HH", "state": "Hamburg", "county": "Hamburg-Nord", "metro": "Hamburg", "population": 313643, "geo": {"lat": 53.5911, "lon": 10.0236, "tz": "Europe/Berlin"}},
+  {"name": "Wandsbek", "stateCode": "HH", "state": "Hamburg", "county": "Wandsbek", "metro": "Hamburg", "population": 438996, "geo": {"lat": 53.5814, "lon": 10.0853, "tz": "Europe/Berlin"}},
+  {"name": "Bergedorf", "stateCode": "HH", "state": "Hamburg", "county": "Bergedorf", "metro": "Hamburg", "population": 132388, "geo": {"lat": 53.4889, "lon": 10.2100, "tz": "Europe/Berlin"}},
+  {"name": "Harburg", "stateCode": "HH", "state": "Hamburg", "county": "Harburg", "metro": "Hamburg", "population": 170657, "geo": {"lat": 53.4608, "lon": 9.9811, "tz": "Europe/Berlin"}},
+  {"name": "St. Pauli", "stateCode": "HH", "state": "Hamburg", "county": "Hamburg-Mitte", "metro": "Hamburg", "population": 22000, "geo": {"lat": 53.5513, "lon": 9.9666, "tz": "Europe/Berlin"}},
+  {"name": "Blankenese", "stateCode": "HH", "state": "Hamburg", "county": "Altona", "metro": "Hamburg", "population": 14000, "geo": {"lat": 53.5600, "lon": 9.8000, "tz": "Europe/Berlin"}},
+  {"name": "Ottensen", "stateCode": "HH", "state": "Hamburg", "county": "Altona", "metro": "Hamburg", "population": 36000, "geo": {"lat": 53.5519, "lon": 9.9222, "tz": "Europe/Berlin"}},
+  {"name": "Winterhude", "stateCode": "HH", "state": "Hamburg", "county": "Hamburg-Nord", "metro": "Hamburg", "population": 54000, "geo": {"lat": 53.5958, "lon": 10.0042, "tz": "Europe/Berlin"}},
+  {"name": "Eppendorf", "stateCode": "HH", "state": "Hamburg", "county": "Hamburg-Nord", "metro": "Hamburg", "population": 25000, "geo": {"lat": 53.5917, "lon": 9.9833, "tz": "Europe/Berlin"}},
+  {"name": "Rotherbaum", "stateCode": "HH", "state": "Hamburg", "county": "Eimsbüttel", "metro": "Hamburg", "population": 17000, "geo": {"lat": 53.5667, "lon": 9.9833, "tz": "Europe/Berlin"}},
+  {"name": "Hafencity", "stateCode": "HH", "state": "Hamburg", "county": "Hamburg-Mitte", "metro": "Hamburg", "population": 6000, "geo": {"lat": 53.5417, "lon": 9.9917, "tz": "Europe/Berlin"}}
+]

@@ -1,0 +1,13 @@
+[
+  {"name": "Saarbrücken", "stateCode": "SL", "state": "Saarland", "county": "Regionalverband Saarbrücken", "metro": "Saarbrücken", "population": 180047, "geo": {"lat": 49.2354, "lon": 6.9814, "tz": "Europe/Berlin"}},
+  {"name": "Neunkirchen", "stateCode": "SL", "state": "Saarland", "county": "Neunkirchen", "metro": "Saarbrücken", "population": 46162, "geo": {"lat": 49.3447, "lon": 7.1803, "tz": "Europe/Berlin"}},
+  {"name": "Homburg", "stateCode": "SL", "state": "Saarland", "county": "Saarpfalz-Kreis", "metro": "Saarbrücken", "population": 41934, "geo": {"lat": 49.3167, "lon": 7.3333, "tz": "Europe/Berlin"}},
+  {"name": "Völklingen", "stateCode": "SL", "state": "Saarland", "county": "Regionalverband Saarbrücken", "metro": "Saarbrücken", "population": 38942, "geo": {"lat": 49.2517, "lon": 6.8586, "tz": "Europe/Berlin"}},
+  {"name": "Sankt Ingbert", "stateCode": "SL", "state": "Saarland", "county": "Saarpfalz-Kreis", "metro": "Saarbrücken", "population": 35745, "geo": {"lat": 49.2769, "lon": 7.1117, "tz": "Europe/Berlin"}},
+  {"name": "Saarlouis", "stateCode": "SL", "state": "Saarland", "county": "Saarlouis", "metro": "Saarbrücken", "population": 34424, "geo": {"lat": 49.3133, "lon": 6.7522, "tz": "Europe/Berlin"}},
+  {"name": "Merzig", "stateCode": "SL", "state": "Saarland", "county": "Merzig-Wadern", "metro": "Saarbrücken", "population": 29485, "geo": {"lat": 49.4417, "lon": 6.6386, "tz": "Europe/Berlin"}},
+  {"name": "Sankt Wendel", "stateCode": "SL", "state": "Saarland", "county": "Sankt Wendel", "metro": "Sankt Wendel", "population": 25658, "geo": {"lat": 49.4667, "lon": 7.1667, "tz": "Europe/Berlin"}},
+  {"name": "Dillingen", "stateCode": "SL", "state": "Saarland", "county": "Saarlouis", "metro": "Saarbrücken", "population": 20270, "geo": {"lat": 49.3564, "lon": 6.7281, "tz": "Europe/Berlin"}},
+  {"name": "Bexbach", "stateCode": "SL", "state": "Saarland", "county": "Saarpfalz-Kreis", "metro": "Saarbrücken", "population": 17395, "geo": {"lat": 49.3489, "lon": 7.2586, "tz": "Europe/Berlin"}},
+  {"name": "Püttlingen", "stateCode": "SL", "state": "Saarland", "county": "Regionalverband Saarbrücken", "metro": "Saarbrücken", "population": 18491, "geo": {"lat": 49.2847, "lon": 6.8867, "tz": "Europe/Berlin"}}
+]

@@ -1,0 +1,17 @@
+[
+  {"name": "Louisville", "stateCode": "KY", "state": "Kentucky", "county": "Jefferson", "metro": "Louisville", "population": 633045, "geo": {"lat": 38.2527, "lon": -85.7585, "tz": "America/Kentucky/Louisville"}},
+  {"name": "Lexington", "stateCode": "KY", "state": "Kentucky", "county": "Fayette", "metro": "Lexington-Fayette", "population": 322570, "geo": {"lat": 38.0406, "lon": -84.5037, "tz": "America/Kentucky/Louisville"}},
+  {"name": "Bowling Green", "stateCode": "KY", "state": "Kentucky", "county": "Warren", "metro": "Bowling Green", "population": 74067, "geo": {"lat": 36.9685, "lon": -86.4808, "tz": "America/Chicago"}},
+  {"name": "Owensboro", "stateCode": "KY", "state": "Kentucky", "county": "Daviess", "metro": "Owensboro", "population": 60183, "geo": {"lat": 37.7719, "lon": -87.1112, "tz": "America/Chicago"}},
+  {"name": "Covington", "stateCode": "KY", "state": "Kentucky", "county": "Kenton", "metro": "Cincinnati", "population": 40455, "geo": {"lat": 39.0837, "lon": -84.5086, "tz": "America/New_York"}},
+  {"name": "Richmond", "stateCode": "KY", "state": "Kentucky", "county": "Madison", "metro": "Lexington-Fayette", "population": 37046, "geo": {"lat": 37.7479, "lon": -84.2947, "tz": "America/Kentucky/Louisville"}},
+  {"name": "Georgetown", "stateCode": "KY", "state": "Kentucky", "county": "Scott", "metro": "Lexington-Fayette", "population": 37468, "geo": {"lat": 38.2098, "lon": -84.5588, "tz": "America/Kentucky/Louisville"}},
+  {"name": "Florence", "stateCode": "KY", "state": "Kentucky", "county": "Boone", "metro": "Cincinnati", "population": 33551, "geo": {"lat": 38.9990, "lon": -84.6266, "tz": "America/New_York"}},
+  {"name": "Hopkinsville", "stateCode": "KY", "state": "Kentucky", "county": "Christian", "metro": "Clarksville (TN)", "population": 30089, "geo": {"lat": 36.8656, "lon": -87.4886, "tz": "America/Chicago"}},
+  {"name": "Nicholasville", "stateCode": "KY", "state": "Kentucky", "county": "Jessamine", "metro": "Lexington-Fayette", "population": 33209, "geo": {"lat": 37.8806, "lon": -84.5730, "tz": "America/Kentucky/Louisville"}},
+  {"name": "Elizabethtown", "stateCode": "KY", "state": "Kentucky", "county": "Hardin", "metro": "Elizabethtown-Fort Knox", "population": 30289, "geo": {"lat": 37.6940, "lon": -85.8591, "tz": "America/Kentucky/Louisville"}},
+  {"name": "Henderson", "stateCode": "KY", "state": "Kentucky", "county": "Henderson", "metro": "Evansville (IN)", "population": 28757, "geo": {"lat": 37.8362, "lon": -87.5900, "tz": "America/Chicago"}},
+  {"name": "Frankfort", "stateCode": "KY", "state": "Kentucky", "county": "Franklin", "metro": "Frankfort", "population": 28602, "geo": {"lat": 38.2009, "lon": -84.8733, "tz": "America/Kentucky/Louisville"}},
+  {"name": "Jeffersontown", "stateCode": "KY", "state": "Kentucky", "county": "Jefferson", "metro": "Louisville", "population": 27715, "geo": {"lat": 38.1943, "lon": -85.5641, "tz": "America/Kentucky/Louisville"}},
+  {"name": "Paducah", "stateCode": "KY", "state": "Kentucky", "county": "McCracken", "metro": "Paducah", "population": 27137, "geo": {"lat": 37.0833, "lon": -88.6000, "tz": "America/Chicago"}}
+]

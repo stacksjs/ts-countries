@@ -1,0 +1,17 @@
+[
+  {"name": "Salt Lake City", "stateCode": "UT", "state": "Utah", "county": "Salt Lake", "metro": "Salt Lake City", "population": 199723, "geo": {"lat": 40.7608, "lon": -111.8910, "tz": "America/Denver"}},
+  {"name": "West Valley City", "stateCode": "UT", "state": "Utah", "county": "Salt Lake", "metro": "Salt Lake City", "population": 140230, "geo": {"lat": 40.6916, "lon": -112.0011, "tz": "America/Denver"}},
+  {"name": "Provo", "stateCode": "UT", "state": "Utah", "county": "Utah", "metro": "Provo-Orem", "population": 115919, "geo": {"lat": 40.2338, "lon": -111.6585, "tz": "America/Denver"}},
+  {"name": "West Jordan", "stateCode": "UT", "state": "Utah", "county": "Salt Lake", "metro": "Salt Lake City", "population": 116961, "geo": {"lat": 40.6097, "lon": -111.9391, "tz": "America/Denver"}},
+  {"name": "Orem", "stateCode": "UT", "state": "Utah", "county": "Utah", "metro": "Provo-Orem", "population": 97499, "geo": {"lat": 40.2969, "lon": -111.6946, "tz": "America/Denver"}},
+  {"name": "Sandy", "stateCode": "UT", "state": "Utah", "county": "Salt Lake", "metro": "Salt Lake City", "population": 96380, "geo": {"lat": 40.5649, "lon": -111.8590, "tz": "America/Denver"}},
+  {"name": "St. George", "stateCode": "UT", "state": "Utah", "county": "Washington", "metro": "St. George", "population": 95342, "geo": {"lat": 37.0965, "lon": -113.5684, "tz": "America/Denver"}},
+  {"name": "Ogden", "stateCode": "UT", "state": "Utah", "county": "Weber", "metro": "Ogden-Clearfield", "population": 87773, "geo": {"lat": 41.2230, "lon": -111.9738, "tz": "America/Denver"}},
+  {"name": "Layton", "stateCode": "UT", "state": "Utah", "county": "Davis", "metro": "Ogden-Clearfield", "population": 81575, "geo": {"lat": 41.0602, "lon": -111.9711, "tz": "America/Denver"}},
+  {"name": "South Jordan", "stateCode": "UT", "state": "Utah", "county": "Salt Lake", "metro": "Salt Lake City", "population": 77487, "geo": {"lat": 40.5622, "lon": -111.9297, "tz": "America/Denver"}},
+  {"name": "Lehi", "stateCode": "UT", "state": "Utah", "county": "Utah", "metro": "Provo-Orem", "population": 75907, "geo": {"lat": 40.3916, "lon": -111.8508, "tz": "America/Denver"}},
+  {"name": "Millcreek", "stateCode": "UT", "state": "Utah", "county": "Salt Lake", "metro": "Salt Lake City", "population": 62666, "geo": {"lat": 40.6869, "lon": -111.8755, "tz": "America/Denver"}},
+  {"name": "Taylorsville", "stateCode": "UT", "state": "Utah", "county": "Salt Lake", "metro": "Salt Lake City", "population": 60227, "geo": {"lat": 40.6678, "lon": -111.9388, "tz": "America/Denver"}},
+  {"name": "Logan", "stateCode": "UT", "state": "Utah", "county": "Cache", "metro": "Logan", "population": 52778, "geo": {"lat": 41.7370, "lon": -111.8338, "tz": "America/Denver"}},
+  {"name": "Murray", "stateCode": "UT", "state": "Utah", "county": "Salt Lake", "metro": "Salt Lake City", "population": 50637, "geo": {"lat": 40.6668, "lon": -111.8880, "tz": "America/Denver"}}
+]

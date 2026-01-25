@@ -1,0 +1,17 @@
+[
+  {"name": "Kiel", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Kiel", "metro": "Kiel", "population": 246306, "geo": {"lat": 54.3233, "lon": 10.1228, "tz": "Europe/Berlin"}},
+  {"name": "Lübeck", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Lübeck", "metro": "Hamburg", "population": 217198, "geo": {"lat": 53.8655, "lon": 10.6866, "tz": "Europe/Berlin"}},
+  {"name": "Flensburg", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Flensburg", "metro": "Flensburg", "population": 90164, "geo": {"lat": 54.7937, "lon": 9.4469, "tz": "Europe/Berlin"}},
+  {"name": "Neumünster", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Neumünster", "metro": "Kiel", "population": 80196, "geo": {"lat": 54.0714, "lon": 9.9872, "tz": "Europe/Berlin"}},
+  {"name": "Norderstedt", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Segeberg", "metro": "Hamburg", "population": 80387, "geo": {"lat": 53.6833, "lon": 9.9667, "tz": "Europe/Berlin"}},
+  {"name": "Elmshorn", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Pinneberg", "metro": "Hamburg", "population": 50303, "geo": {"lat": 53.7547, "lon": 9.6556, "tz": "Europe/Berlin"}},
+  {"name": "Pinneberg", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Pinneberg", "metro": "Hamburg", "population": 43934, "geo": {"lat": 53.6547, "lon": 9.7989, "tz": "Europe/Berlin"}},
+  {"name": "Itzehoe", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Steinburg", "metro": "Hamburg", "population": 31660, "geo": {"lat": 53.9250, "lon": 9.5161, "tz": "Europe/Berlin"}},
+  {"name": "Wedel", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Pinneberg", "metro": "Hamburg", "population": 34131, "geo": {"lat": 53.5833, "lon": 9.7000, "tz": "Europe/Berlin"}},
+  {"name": "Ahrensburg", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Stormarn", "metro": "Hamburg", "population": 34209, "geo": {"lat": 53.6739, "lon": 10.2261, "tz": "Europe/Berlin"}},
+  {"name": "Geesthacht", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Herzogtum Lauenburg", "metro": "Hamburg", "population": 30770, "geo": {"lat": 53.4367, "lon": 10.3711, "tz": "Europe/Berlin"}},
+  {"name": "Rendsburg", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Rendsburg-Eckernförde", "metro": "Kiel", "population": 28477, "geo": {"lat": 54.3044, "lon": 9.6644, "tz": "Europe/Berlin"}},
+  {"name": "Husum", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Nordfriesland", "metro": "Nordfriesland", "population": 22430, "geo": {"lat": 54.4858, "lon": 9.0500, "tz": "Europe/Berlin"}},
+  {"name": "Schleswig", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Schleswig-Flensburg", "metro": "Flensburg", "population": 24254, "geo": {"lat": 54.5167, "lon": 9.5667, "tz": "Europe/Berlin"}},
+  {"name": "Sylt", "stateCode": "SH", "state": "Schleswig-Holstein", "county": "Nordfriesland", "metro": "Nordfriesland", "population": 13748, "geo": {"lat": 54.9079, "lon": 8.3275, "tz": "Europe/Berlin"}}
+]

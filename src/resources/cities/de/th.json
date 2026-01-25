@@ -1,0 +1,17 @@
+[
+  {"name": "Erfurt", "stateCode": "TH", "state": "Thüringen", "county": "Erfurt", "metro": "Erfurt", "population": 213699, "geo": {"lat": 50.9787, "lon": 11.0328, "tz": "Europe/Berlin"}},
+  {"name": "Jena", "stateCode": "TH", "state": "Thüringen", "county": "Jena", "metro": "Jena", "population": 111407, "geo": {"lat": 50.9272, "lon": 11.5861, "tz": "Europe/Berlin"}},
+  {"name": "Gera", "stateCode": "TH", "state": "Thüringen", "county": "Gera", "metro": "Gera", "population": 92108, "geo": {"lat": 50.8781, "lon": 12.0831, "tz": "Europe/Berlin"}},
+  {"name": "Weimar", "stateCode": "TH", "state": "Thüringen", "county": "Weimar", "metro": "Erfurt-Weimar", "population": 65228, "geo": {"lat": 50.9795, "lon": 11.3235, "tz": "Europe/Berlin"}},
+  {"name": "Gotha", "stateCode": "TH", "state": "Thüringen", "county": "Gotha", "metro": "Erfurt", "population": 44654, "geo": {"lat": 50.9489, "lon": 10.7183, "tz": "Europe/Berlin"}},
+  {"name": "Eisenach", "stateCode": "TH", "state": "Thüringen", "county": "Eisenach", "metro": "Eisenach", "population": 41970, "geo": {"lat": 50.9807, "lon": 10.3195, "tz": "Europe/Berlin"}},
+  {"name": "Suhl", "stateCode": "TH", "state": "Thüringen", "county": "Suhl", "metro": "Suhl", "population": 36208, "geo": {"lat": 50.6094, "lon": 10.6940, "tz": "Europe/Berlin"}},
+  {"name": "Nordhausen", "stateCode": "TH", "state": "Thüringen", "county": "Nordhausen", "metro": "Nordhausen", "population": 41791, "geo": {"lat": 51.5058, "lon": 10.7900, "tz": "Europe/Berlin"}},
+  {"name": "Altenburg", "stateCode": "TH", "state": "Thüringen", "county": "Altenburger Land", "metro": "Leipzig-Altenburg", "population": 31583, "geo": {"lat": 50.9847, "lon": 12.4369, "tz": "Europe/Berlin"}},
+  {"name": "Mühlhausen", "stateCode": "TH", "state": "Thüringen", "county": "Unstrut-Hainich-Kreis", "metro": "Nordthüringen", "population": 33067, "geo": {"lat": 51.2086, "lon": 10.4525, "tz": "Europe/Berlin"}},
+  {"name": "Ilmenau", "stateCode": "TH", "state": "Thüringen", "county": "Ilm-Kreis", "metro": "Erfurt", "population": 38267, "geo": {"lat": 50.6872, "lon": 10.9147, "tz": "Europe/Berlin"}},
+  {"name": "Arnstadt", "stateCode": "TH", "state": "Thüringen", "county": "Ilm-Kreis", "metro": "Erfurt", "population": 27142, "geo": {"lat": 50.8344, "lon": 10.9464, "tz": "Europe/Berlin"}},
+  {"name": "Rudolstadt", "stateCode": "TH", "state": "Thüringen", "county": "Saalfeld-Rudolstadt", "metro": "Saalfeld", "population": 22850, "geo": {"lat": 50.7200, "lon": 11.3389, "tz": "Europe/Berlin"}},
+  {"name": "Saalfeld", "stateCode": "TH", "state": "Thüringen", "county": "Saalfeld-Rudolstadt", "metro": "Saalfeld", "population": 23882, "geo": {"lat": 50.6483, "lon": 11.3656, "tz": "Europe/Berlin"}},
+  {"name": "Apolda", "stateCode": "TH", "state": "Thüringen", "county": "Weimarer Land", "metro": "Erfurt-Weimar", "population": 21847, "geo": {"lat": 51.0256, "lon": 11.5158, "tz": "Europe/Berlin"}}
+]

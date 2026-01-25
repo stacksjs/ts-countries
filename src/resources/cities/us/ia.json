@@ -1,0 +1,17 @@
+[
+  {"name": "Des Moines", "stateCode": "IA", "state": "Iowa", "county": "Polk", "metro": "Des Moines-West Des Moines", "population": 214133, "geo": {"lat": 41.5868, "lon": -93.6250, "tz": "America/Chicago"}},
+  {"name": "Cedar Rapids", "stateCode": "IA", "state": "Iowa", "county": "Linn", "metro": "Cedar Rapids", "population": 137710, "geo": {"lat": 41.9779, "lon": -91.6656, "tz": "America/Chicago"}},
+  {"name": "Davenport", "stateCode": "IA", "state": "Iowa", "county": "Scott", "metro": "Quad Cities", "population": 101590, "geo": {"lat": 41.5236, "lon": -90.5776, "tz": "America/Chicago"}},
+  {"name": "Sioux City", "stateCode": "IA", "state": "Iowa", "county": "Woodbury", "metro": "Sioux City", "population": 85797, "geo": {"lat": 42.4963, "lon": -96.4049, "tz": "America/Chicago"}},
+  {"name": "Iowa City", "stateCode": "IA", "state": "Iowa", "county": "Johnson", "metro": "Iowa City", "population": 74828, "geo": {"lat": 41.6611, "lon": -91.5302, "tz": "America/Chicago"}},
+  {"name": "Waterloo", "stateCode": "IA", "state": "Iowa", "county": "Black Hawk", "metro": "Waterloo-Cedar Falls", "population": 67314, "geo": {"lat": 42.4928, "lon": -92.3426, "tz": "America/Chicago"}},
+  {"name": "Ames", "stateCode": "IA", "state": "Iowa", "county": "Story", "metro": "Ames", "population": 66427, "geo": {"lat": 42.0347, "lon": -93.6200, "tz": "America/Chicago"}},
+  {"name": "West Des Moines", "stateCode": "IA", "state": "Iowa", "county": "Polk", "metro": "Des Moines-West Des Moines", "population": 68723, "geo": {"lat": 41.5520, "lon": -93.7113, "tz": "America/Chicago"}},
+  {"name": "Council Bluffs", "stateCode": "IA", "state": "Iowa", "county": "Pottawattamie", "metro": "Omaha (NE)", "population": 62875, "geo": {"lat": 41.2619, "lon": -95.8608, "tz": "America/Chicago"}},
+  {"name": "Ankeny", "stateCode": "IA", "state": "Iowa", "county": "Polk", "metro": "Des Moines-West Des Moines", "population": 67355, "geo": {"lat": 41.7299, "lon": -93.6058, "tz": "America/Chicago"}},
+  {"name": "Dubuque", "stateCode": "IA", "state": "Iowa", "county": "Dubuque", "metro": "Dubuque", "population": 59667, "geo": {"lat": 42.5006, "lon": -90.6646, "tz": "America/Chicago"}},
+  {"name": "Cedar Falls", "stateCode": "IA", "state": "Iowa", "county": "Black Hawk", "metro": "Waterloo-Cedar Falls", "population": 41591, "geo": {"lat": 42.5349, "lon": -92.4453, "tz": "America/Chicago"}},
+  {"name": "Marion", "stateCode": "IA", "state": "Iowa", "county": "Linn", "metro": "Cedar Rapids", "population": 41637, "geo": {"lat": 42.0341, "lon": -91.5976, "tz": "America/Chicago"}},
+  {"name": "Urbandale", "stateCode": "IA", "state": "Iowa", "county": "Polk", "metro": "Des Moines-West Des Moines", "population": 45580, "geo": {"lat": 41.6266, "lon": -93.7122, "tz": "America/Chicago"}},
+  {"name": "Bettendorf", "stateCode": "IA", "state": "Iowa", "county": "Scott", "metro": "Quad Cities", "population": 39102, "geo": {"lat": 41.5406, "lon": -90.4764, "tz": "America/Chicago"}}
+]

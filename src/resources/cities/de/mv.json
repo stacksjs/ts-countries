@@ -1,0 +1,14 @@
+[
+  {"name": "Rostock", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Rostock", "metro": "Rostock", "population": 209191, "geo": {"lat": 54.0924, "lon": 12.0991, "tz": "Europe/Berlin"}},
+  {"name": "Schwerin", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Schwerin", "metro": "Schwerin", "population": 95653, "geo": {"lat": 53.6355, "lon": 11.4012, "tz": "Europe/Berlin"}},
+  {"name": "Neubrandenburg", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Neubrandenburg", "metro": "Mecklenburgische Seenplatte", "population": 63437, "geo": {"lat": 53.5569, "lon": 13.2611, "tz": "Europe/Berlin"}},
+  {"name": "Stralsund", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Vorpommern-Rügen", "metro": "Vorpommern", "population": 59421, "geo": {"lat": 54.3092, "lon": 13.0897, "tz": "Europe/Berlin"}},
+  {"name": "Greifswald", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Vorpommern-Greifswald", "metro": "Vorpommern", "population": 59382, "geo": {"lat": 54.0865, "lon": 13.3923, "tz": "Europe/Berlin"}},
+  {"name": "Wismar", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Nordwestmecklenburg", "metro": "Wismar", "population": 42433, "geo": {"lat": 53.8917, "lon": 11.4583, "tz": "Europe/Berlin"}},
+  {"name": "Güstrow", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Rostock", "metro": "Rostock", "population": 28661, "geo": {"lat": 53.7972, "lon": 12.1750, "tz": "Europe/Berlin"}},
+  {"name": "Waren", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Mecklenburgische Seenplatte", "metro": "Mecklenburgische Seenplatte", "population": 21034, "geo": {"lat": 53.5167, "lon": 12.6833, "tz": "Europe/Berlin"}},
+  {"name": "Parchim", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Ludwigslust-Parchim", "metro": "Ludwigslust-Parchim", "population": 17164, "geo": {"lat": 53.4264, "lon": 11.8472, "tz": "Europe/Berlin"}},
+  {"name": "Anklam", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Vorpommern-Greifswald", "metro": "Vorpommern", "population": 12237, "geo": {"lat": 53.8547, "lon": 13.6878, "tz": "Europe/Berlin"}},
+  {"name": "Bergen auf Rügen", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Vorpommern-Rügen", "metro": "Vorpommern", "population": 13304, "geo": {"lat": 54.4181, "lon": 13.4322, "tz": "Europe/Berlin"}},
+  {"name": "Demmin", "stateCode": "MV", "state": "Mecklenburg-Vorpommern", "county": "Mecklenburgische Seenplatte", "metro": "Mecklenburgische Seenplatte", "population": 10598, "geo": {"lat": 53.9044, "lon": 13.0447, "tz": "Europe/Berlin"}}
+]

@@ -1,0 +1,16 @@
+[
+  {"name": "Potsdam", "stateCode": "BB", "state": "Brandenburg", "county": "Potsdam", "metro": "Berlin-Brandenburg", "population": 182112, "geo": {"lat": 52.3906, "lon": 13.0645, "tz": "Europe/Berlin"}},
+  {"name": "Cottbus", "stateCode": "BB", "state": "Brandenburg", "county": "Cottbus", "metro": "Cottbus", "population": 99678, "geo": {"lat": 51.7563, "lon": 14.3329, "tz": "Europe/Berlin"}},
+  {"name": "Brandenburg an der Havel", "stateCode": "BB", "state": "Brandenburg", "county": "Brandenburg", "metro": "Berlin-Brandenburg", "population": 72124, "geo": {"lat": 52.4125, "lon": 12.5316, "tz": "Europe/Berlin"}},
+  {"name": "Frankfurt (Oder)", "stateCode": "BB", "state": "Brandenburg", "county": "Frankfurt (Oder)", "metro": "Berlin-Brandenburg", "population": 57015, "geo": {"lat": 52.3471, "lon": 14.5506, "tz": "Europe/Berlin"}},
+  {"name": "Oranienburg", "stateCode": "BB", "state": "Brandenburg", "county": "Oberhavel", "metro": "Berlin-Brandenburg", "population": 45117, "geo": {"lat": 52.7556, "lon": 13.2374, "tz": "Europe/Berlin"}},
+  {"name": "Falkensee", "stateCode": "BB", "state": "Brandenburg", "county": "Havelland", "metro": "Berlin-Brandenburg", "population": 44399, "geo": {"lat": 52.5605, "lon": 13.0935, "tz": "Europe/Berlin"}},
+  {"name": "Eberswalde", "stateCode": "BB", "state": "Brandenburg", "county": "Barnim", "metro": "Berlin-Brandenburg", "population": 40959, "geo": {"lat": 52.8333, "lon": 13.8167, "tz": "Europe/Berlin"}},
+  {"name": "Bernau bei Berlin", "stateCode": "BB", "state": "Brandenburg", "county": "Barnim", "metro": "Berlin-Brandenburg", "population": 42065, "geo": {"lat": 52.6800, "lon": 13.5833, "tz": "Europe/Berlin"}},
+  {"name": "Königs Wusterhausen", "stateCode": "BB", "state": "Brandenburg", "county": "Dahme-Spreewald", "metro": "Berlin-Brandenburg", "population": 38089, "geo": {"lat": 52.3017, "lon": 13.6322, "tz": "Europe/Berlin"}},
+  {"name": "Neuruppin", "stateCode": "BB", "state": "Brandenburg", "county": "Ostprignitz-Ruppin", "metro": "Berlin-Brandenburg", "population": 31295, "geo": {"lat": 52.9258, "lon": 12.8061, "tz": "Europe/Berlin"}},
+  {"name": "Schwedt", "stateCode": "BB", "state": "Brandenburg", "county": "Uckermark", "metro": "Uckermark", "population": 29153, "geo": {"lat": 53.0667, "lon": 14.2833, "tz": "Europe/Berlin"}},
+  {"name": "Fürstenwalde", "stateCode": "BB", "state": "Brandenburg", "county": "Oder-Spree", "metro": "Berlin-Brandenburg", "population": 31858, "geo": {"lat": 52.3628, "lon": 14.0628, "tz": "Europe/Berlin"}},
+  {"name": "Strausberg", "stateCode": "BB", "state": "Brandenburg", "county": "Märkisch-Oderland", "metro": "Berlin-Brandenburg", "population": 27039, "geo": {"lat": 52.5789, "lon": 13.8806, "tz": "Europe/Berlin"}},
+  {"name": "Werder", "stateCode": "BB", "state": "Brandenburg", "county": "Potsdam-Mittelmark", "metro": "Berlin-Brandenburg", "population": 26527, "geo": {"lat": 52.3789, "lon": 12.9328, "tz": "Europe/Berlin"}}
+]

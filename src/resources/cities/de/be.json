@@ -1,0 +1,20 @@
+[
+  {"name": "Berlin", "stateCode": "BE", "state": "Berlin", "county": "Berlin", "metro": "Berlin-Brandenburg", "population": 3644826, "geo": {"lat": 52.5200, "lon": 13.4050, "tz": "Europe/Berlin"}},
+  {"name": "Berlin-Mitte", "stateCode": "BE", "state": "Berlin", "county": "Mitte", "metro": "Berlin-Brandenburg", "population": 383360, "geo": {"lat": 52.5244, "lon": 13.4105, "tz": "Europe/Berlin"}},
+  {"name": "Friedrichshain-Kreuzberg", "stateCode": "BE", "state": "Berlin", "county": "Friedrichshain-Kreuzberg", "metro": "Berlin-Brandenburg", "population": 289762, "geo": {"lat": 52.5014, "lon": 13.4356, "tz": "Europe/Berlin"}},
+  {"name": "Pankow", "stateCode": "BE", "state": "Berlin", "county": "Pankow", "metro": "Berlin-Brandenburg", "population": 410716, "geo": {"lat": 52.5670, "lon": 13.4029, "tz": "Europe/Berlin"}},
+  {"name": "Charlottenburg-Wilmersdorf", "stateCode": "BE", "state": "Berlin", "county": "Charlottenburg-Wilmersdorf", "metro": "Berlin-Brandenburg", "population": 342332, "geo": {"lat": 52.5166, "lon": 13.3041, "tz": "Europe/Berlin"}},
+  {"name": "Spandau", "stateCode": "BE", "state": "Berlin", "county": "Spandau", "metro": "Berlin-Brandenburg", "population": 245527, "geo": {"lat": 52.5356, "lon": 13.1989, "tz": "Europe/Berlin"}},
+  {"name": "Steglitz-Zehlendorf", "stateCode": "BE", "state": "Berlin", "county": "Steglitz-Zehlendorf", "metro": "Berlin-Brandenburg", "population": 308840, "geo": {"lat": 52.4347, "lon": 13.2417, "tz": "Europe/Berlin"}},
+  {"name": "Tempelhof-Schöneberg", "stateCode": "BE", "state": "Berlin", "county": "Tempelhof-Schöneberg", "metro": "Berlin-Brandenburg", "population": 351644, "geo": {"lat": 52.4671, "lon": 13.3840, "tz": "Europe/Berlin"}},
+  {"name": "Neukölln", "stateCode": "BE", "state": "Berlin", "county": "Neukölln", "metro": "Berlin-Brandenburg", "population": 327945, "geo": {"lat": 52.4812, "lon": 13.4351, "tz": "Europe/Berlin"}},
+  {"name": "Treptow-Köpenick", "stateCode": "BE", "state": "Berlin", "county": "Treptow-Köpenick", "metro": "Berlin-Brandenburg", "population": 274480, "geo": {"lat": 52.4447, "lon": 13.5758, "tz": "Europe/Berlin"}},
+  {"name": "Marzahn-Hellersdorf", "stateCode": "BE", "state": "Berlin", "county": "Marzahn-Hellersdorf", "metro": "Berlin-Brandenburg", "population": 268548, "geo": {"lat": 52.5429, "lon": 13.5681, "tz": "Europe/Berlin"}},
+  {"name": "Lichtenberg", "stateCode": "BE", "state": "Berlin", "county": "Lichtenberg", "metro": "Berlin-Brandenburg", "population": 296691, "geo": {"lat": 52.5167, "lon": 13.4994, "tz": "Europe/Berlin"}},
+  {"name": "Reinickendorf", "stateCode": "BE", "state": "Berlin", "county": "Reinickendorf", "metro": "Berlin-Brandenburg", "population": 265225, "geo": {"lat": 52.5670, "lon": 13.3330, "tz": "Europe/Berlin"}},
+  {"name": "Prenzlauer Berg", "stateCode": "BE", "state": "Berlin", "county": "Pankow", "metro": "Berlin-Brandenburg", "population": 167000, "geo": {"lat": 52.5383, "lon": 13.4223, "tz": "Europe/Berlin"}},
+  {"name": "Kreuzberg", "stateCode": "BE", "state": "Berlin", "county": "Friedrichshain-Kreuzberg", "metro": "Berlin-Brandenburg", "population": 152000, "geo": {"lat": 52.4895, "lon": 13.4036, "tz": "Europe/Berlin"}},
+  {"name": "Schöneberg", "stateCode": "BE", "state": "Berlin", "county": "Tempelhof-Schöneberg", "metro": "Berlin-Brandenburg", "population": 120000, "geo": {"lat": 52.4833, "lon": 13.3500, "tz": "Europe/Berlin"}},
+  {"name": "Wedding", "stateCode": "BE", "state": "Berlin", "county": "Mitte", "metro": "Berlin-Brandenburg", "population": 85000, "geo": {"lat": 52.5500, "lon": 13.3500, "tz": "Europe/Berlin"}},
+  {"name": "Moabit", "stateCode": "BE", "state": "Berlin", "county": "Mitte", "metro": "Berlin-Brandenburg", "population": 77000, "geo": {"lat": 52.5300, "lon": 13.3417, "tz": "Europe/Berlin"}}
+]

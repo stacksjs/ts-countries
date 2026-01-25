@@ -1,0 +1,17 @@
+[
+  {"name": "Bridgeport", "stateCode": "CT", "state": "Connecticut", "county": "Fairfield", "metro": "Bridgeport-Stamford", "population": 148654, "geo": {"lat": 41.1865, "lon": -73.1952, "tz": "America/New_York"}},
+  {"name": "New Haven", "stateCode": "CT", "state": "Connecticut", "county": "New Haven", "metro": "New Haven", "population": 134023, "geo": {"lat": 41.3083, "lon": -72.9279, "tz": "America/New_York"}},
+  {"name": "Stamford", "stateCode": "CT", "state": "Connecticut", "county": "Fairfield", "metro": "Bridgeport-Stamford", "population": 135470, "geo": {"lat": 41.0534, "lon": -73.5387, "tz": "America/New_York"}},
+  {"name": "Hartford", "stateCode": "CT", "state": "Connecticut", "county": "Hartford", "metro": "Hartford", "population": 121054, "geo": {"lat": 41.7658, "lon": -72.6734, "tz": "America/New_York"}},
+  {"name": "Waterbury", "stateCode": "CT", "state": "Connecticut", "county": "New Haven", "metro": "New Haven-Waterbury", "population": 114403, "geo": {"lat": 41.5582, "lon": -73.0515, "tz": "America/New_York"}},
+  {"name": "Norwalk", "stateCode": "CT", "state": "Connecticut", "county": "Fairfield", "metro": "Bridgeport-Stamford", "population": 91184, "geo": {"lat": 41.1176, "lon": -73.4079, "tz": "America/New_York"}},
+  {"name": "Danbury", "stateCode": "CT", "state": "Connecticut", "county": "Fairfield", "metro": "Danbury", "population": 86518, "geo": {"lat": 41.3948, "lon": -73.4540, "tz": "America/New_York"}},
+  {"name": "New Britain", "stateCode": "CT", "state": "Connecticut", "county": "Hartford", "metro": "Hartford", "population": 74135, "geo": {"lat": 41.6612, "lon": -72.7795, "tz": "America/New_York"}},
+  {"name": "West Hartford", "stateCode": "CT", "state": "Connecticut", "county": "Hartford", "metro": "Hartford", "population": 64083, "geo": {"lat": 41.7620, "lon": -72.7420, "tz": "America/New_York"}},
+  {"name": "Bristol", "stateCode": "CT", "state": "Connecticut", "county": "Hartford", "metro": "Hartford", "population": 60833, "geo": {"lat": 41.6718, "lon": -72.9493, "tz": "America/New_York"}},
+  {"name": "Meriden", "stateCode": "CT", "state": "Connecticut", "county": "New Haven", "metro": "New Haven", "population": 60850, "geo": {"lat": 41.5382, "lon": -72.8070, "tz": "America/New_York"}},
+  {"name": "Milford", "stateCode": "CT", "state": "Connecticut", "county": "New Haven", "metro": "New Haven", "population": 53120, "geo": {"lat": 41.2223, "lon": -73.0565, "tz": "America/New_York"}},
+  {"name": "Greenwich", "stateCode": "CT", "state": "Connecticut", "county": "Fairfield", "metro": "Bridgeport-Stamford", "population": 62396, "geo": {"lat": 41.0262, "lon": -73.6282, "tz": "America/New_York"}},
+  {"name": "Shelton", "stateCode": "CT", "state": "Connecticut", "county": "Fairfield", "metro": "Bridgeport-Stamford", "population": 41483, "geo": {"lat": 41.3165, "lon": -73.0932, "tz": "America/New_York"}},
+  {"name": "Torrington", "stateCode": "CT", "state": "Connecticut", "county": "Litchfield", "metro": "Torrington", "population": 34259, "geo": {"lat": 41.8009, "lon": -73.1212, "tz": "America/New_York"}}
+]

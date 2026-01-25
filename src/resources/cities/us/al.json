@@ -1,0 +1,17 @@
+[
+  {"name": "Birmingham", "stateCode": "AL", "state": "Alabama", "county": "Jefferson", "metro": "Birmingham", "population": 200733, "geo": {"lat": 33.5186, "lon": -86.8104, "tz": "America/Chicago"}},
+  {"name": "Montgomery", "stateCode": "AL", "state": "Alabama", "county": "Montgomery", "metro": "Montgomery", "population": 200603, "geo": {"lat": 32.3792, "lon": -86.3077, "tz": "America/Chicago"}},
+  {"name": "Huntsville", "stateCode": "AL", "state": "Alabama", "county": "Madison", "metro": "Huntsville", "population": 215006, "geo": {"lat": 34.7304, "lon": -86.5861, "tz": "America/Chicago"}},
+  {"name": "Mobile", "stateCode": "AL", "state": "Alabama", "county": "Mobile", "metro": "Mobile", "population": 187041, "geo": {"lat": 30.6954, "lon": -88.0399, "tz": "America/Chicago"}},
+  {"name": "Tuscaloosa", "stateCode": "AL", "state": "Alabama", "county": "Tuscaloosa", "metro": "Tuscaloosa", "population": 99600, "geo": {"lat": 33.2098, "lon": -87.5692, "tz": "America/Chicago"}},
+  {"name": "Hoover", "stateCode": "AL", "state": "Alabama", "county": "Jefferson", "metro": "Birmingham", "population": 92606, "geo": {"lat": 33.4054, "lon": -86.8114, "tz": "America/Chicago"}},
+  {"name": "Dothan", "stateCode": "AL", "state": "Alabama", "county": "Houston", "metro": "Dothan", "population": 71072, "geo": {"lat": 31.2232, "lon": -85.3905, "tz": "America/Chicago"}},
+  {"name": "Auburn", "stateCode": "AL", "state": "Alabama", "county": "Lee", "metro": "Auburn-Opelika", "population": 76143, "geo": {"lat": 32.6099, "lon": -85.4808, "tz": "America/Chicago"}},
+  {"name": "Decatur", "stateCode": "AL", "state": "Alabama", "county": "Morgan", "metro": "Decatur", "population": 57938, "geo": {"lat": 34.6059, "lon": -86.9833, "tz": "America/Chicago"}},
+  {"name": "Madison", "stateCode": "AL", "state": "Alabama", "county": "Madison", "metro": "Huntsville", "population": 56933, "geo": {"lat": 34.6993, "lon": -86.7483, "tz": "America/Chicago"}},
+  {"name": "Florence", "stateCode": "AL", "state": "Alabama", "county": "Lauderdale", "metro": "Florence-Muscle Shoals", "population": 40184, "geo": {"lat": 34.7998, "lon": -87.6772, "tz": "America/Chicago"}},
+  {"name": "Gadsden", "stateCode": "AL", "state": "Alabama", "county": "Etowah", "metro": "Gadsden", "population": 33949, "geo": {"lat": 34.0143, "lon": -86.0066, "tz": "America/Chicago"}},
+  {"name": "Vestavia Hills", "stateCode": "AL", "state": "Alabama", "county": "Jefferson", "metro": "Birmingham", "population": 39815, "geo": {"lat": 33.4487, "lon": -86.7878, "tz": "America/Chicago"}},
+  {"name": "Prattville", "stateCode": "AL", "state": "Alabama", "county": "Autauga", "metro": "Montgomery", "population": 37464, "geo": {"lat": 32.4640, "lon": -86.4597, "tz": "America/Chicago"}},
+  {"name": "Phenix City", "stateCode": "AL", "state": "Alabama", "county": "Russell", "metro": "Columbus (GA)", "population": 36326, "geo": {"lat": 32.4709, "lon": -85.0007, "tz": "America/Chicago"}}
+]

@@ -1,0 +1,22 @@
+[
+  {"name": "Leipzig", "stateCode": "SN", "state": "Sachsen", "county": "Leipzig", "metro": "Leipzig", "population": 601866, "geo": {"lat": 51.3397, "lon": 12.3731, "tz": "Europe/Berlin"}},
+  {"name": "Dresden", "stateCode": "SN", "state": "Sachsen", "county": "Dresden", "metro": "Dresden", "population": 556227, "geo": {"lat": 51.0504, "lon": 13.7373, "tz": "Europe/Berlin"}},
+  {"name": "Chemnitz", "stateCode": "SN", "state": "Sachsen", "county": "Chemnitz", "metro": "Chemnitz", "population": 246334, "geo": {"lat": 50.8278, "lon": 12.9214, "tz": "Europe/Berlin"}},
+  {"name": "Zwickau", "stateCode": "SN", "state": "Sachsen", "county": "Zwickau", "metro": "Chemnitz", "population": 88690, "geo": {"lat": 50.7189, "lon": 12.4964, "tz": "Europe/Berlin"}},
+  {"name": "Plauen", "stateCode": "SN", "state": "Sachsen", "county": "Vogtlandkreis", "metro": "Vogtland", "population": 64014, "geo": {"lat": 50.4942, "lon": 12.1344, "tz": "Europe/Berlin"}},
+  {"name": "Görlitz", "stateCode": "SN", "state": "Sachsen", "county": "Görlitz", "metro": "Görlitz", "population": 55784, "geo": {"lat": 51.1528, "lon": 14.9872, "tz": "Europe/Berlin"}},
+  {"name": "Freiberg", "stateCode": "SN", "state": "Sachsen", "county": "Mittelsachsen", "metro": "Chemnitz", "population": 41586, "geo": {"lat": 50.9172, "lon": 13.3428, "tz": "Europe/Berlin"}},
+  {"name": "Freital", "stateCode": "SN", "state": "Sachsen", "county": "Sächsische Schweiz-Osterzgebirge", "metro": "Dresden", "population": 39561, "geo": {"lat": 51.0094, "lon": 13.6478, "tz": "Europe/Berlin"}},
+  {"name": "Bautzen", "stateCode": "SN", "state": "Sachsen", "county": "Bautzen", "metro": "Oberlausitz", "population": 38744, "geo": {"lat": 51.1814, "lon": 14.4244, "tz": "Europe/Berlin"}},
+  {"name": "Pirna", "stateCode": "SN", "state": "Sachsen", "county": "Sächsische Schweiz-Osterzgebirge", "metro": "Dresden", "population": 38036, "geo": {"lat": 50.9611, "lon": 13.9386, "tz": "Europe/Berlin"}},
+  {"name": "Radebeul", "stateCode": "SN", "state": "Sachsen", "county": "Meißen", "metro": "Dresden", "population": 34175, "geo": {"lat": 51.1067, "lon": 13.6561, "tz": "Europe/Berlin"}},
+  {"name": "Meißen", "stateCode": "SN", "state": "Sachsen", "county": "Meißen", "metro": "Dresden", "population": 27679, "geo": {"lat": 51.1633, "lon": 13.4739, "tz": "Europe/Berlin"}},
+  {"name": "Hoyerswerda", "stateCode": "SN", "state": "Sachsen", "county": "Bautzen", "metro": "Oberlausitz", "population": 32003, "geo": {"lat": 51.4367, "lon": 14.2478, "tz": "Europe/Berlin"}},
+  {"name": "Delitzsch", "stateCode": "SN", "state": "Sachsen", "county": "Nordsachsen", "metro": "Leipzig", "population": 25078, "geo": {"lat": 51.5250, "lon": 12.3428, "tz": "Europe/Berlin"}},
+  {"name": "Markkleeberg", "stateCode": "SN", "state": "Sachsen", "county": "Leipzig", "metro": "Leipzig", "population": 24878, "geo": {"lat": 51.2778, "lon": 12.3772, "tz": "Europe/Berlin"}},
+  {"name": "Riesa", "stateCode": "SN", "state": "Sachsen", "county": "Meißen", "metro": "Dresden", "population": 29277, "geo": {"lat": 51.3058, "lon": 13.2958, "tz": "Europe/Berlin"}},
+  {"name": "Limbach-Oberfrohna", "stateCode": "SN", "state": "Sachsen", "county": "Zwickau", "metro": "Chemnitz", "population": 24176, "geo": {"lat": 50.8531, "lon": 12.7619, "tz": "Europe/Berlin"}},
+  {"name": "Döbeln", "stateCode": "SN", "state": "Sachsen", "county": "Mittelsachsen", "metro": "Chemnitz", "population": 23661, "geo": {"lat": 51.1192, "lon": 13.1183, "tz": "Europe/Berlin"}},
+  {"name": "Coswig", "stateCode": "SN", "state": "Sachsen", "county": "Meißen", "metro": "Dresden", "population": 20917, "geo": {"lat": 51.1269, "lon": 13.5781, "tz": "Europe/Berlin"}},
+  {"name": "Aue-Bad Schlema", "stateCode": "SN", "state": "Sachsen", "county": "Erzgebirgskreis", "metro": "Erzgebirge", "population": 20043, "geo": {"lat": 50.5906, "lon": 12.7008, "tz": "Europe/Berlin"}}
+]

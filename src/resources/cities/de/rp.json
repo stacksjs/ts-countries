@@ -1,0 +1,17 @@
+[
+  {"name": "Mainz", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Mainz", "metro": "Frankfurt Rhein-Main", "population": 218578, "geo": {"lat": 49.9929, "lon": 8.2473, "tz": "Europe/Berlin"}},
+  {"name": "Ludwigshafen am Rhein", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Ludwigshafen", "metro": "Rhein-Neckar", "population": 172253, "geo": {"lat": 49.4774, "lon": 8.4452, "tz": "Europe/Berlin"}},
+  {"name": "Koblenz", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Koblenz", "metro": "Koblenz", "population": 114024, "geo": {"lat": 50.3569, "lon": 7.5890, "tz": "Europe/Berlin"}},
+  {"name": "Trier", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Trier", "metro": "Trier", "population": 111528, "geo": {"lat": 49.7596, "lon": 6.6439, "tz": "Europe/Berlin"}},
+  {"name": "Kaiserslautern", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Kaiserslautern", "metro": "Kaiserslautern", "population": 100030, "geo": {"lat": 49.4401, "lon": 7.7491, "tz": "Europe/Berlin"}},
+  {"name": "Worms", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Worms", "metro": "Rhein-Neckar", "population": 84997, "geo": {"lat": 49.6341, "lon": 8.3507, "tz": "Europe/Berlin"}},
+  {"name": "Neuwied", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Neuwied", "metro": "Koblenz", "population": 64860, "geo": {"lat": 50.4347, "lon": 7.4639, "tz": "Europe/Berlin"}},
+  {"name": "Neustadt an der Weinstraße", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Neustadt", "metro": "Rhein-Neckar", "population": 53892, "geo": {"lat": 49.3500, "lon": 8.1333, "tz": "Europe/Berlin"}},
+  {"name": "Speyer", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Speyer", "metro": "Rhein-Neckar", "population": 50561, "geo": {"lat": 49.3173, "lon": 8.4411, "tz": "Europe/Berlin"}},
+  {"name": "Frankenthal", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Frankenthal", "metro": "Rhein-Neckar", "population": 48762, "geo": {"lat": 49.5333, "lon": 8.3500, "tz": "Europe/Berlin"}},
+  {"name": "Bad Kreuznach", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Bad Kreuznach", "metro": "Rhein-Main", "population": 51109, "geo": {"lat": 49.8456, "lon": 7.8633, "tz": "Europe/Berlin"}},
+  {"name": "Zweibrücken", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Zweibrücken", "metro": "Saarbrücken", "population": 34209, "geo": {"lat": 49.2489, "lon": 7.3617, "tz": "Europe/Berlin"}},
+  {"name": "Andernach", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Mayen-Koblenz", "metro": "Koblenz", "population": 30045, "geo": {"lat": 50.4386, "lon": 7.4028, "tz": "Europe/Berlin"}},
+  {"name": "Idar-Oberstein", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Birkenfeld", "metro": "Nahe", "population": 28212, "geo": {"lat": 49.7133, "lon": 7.3167, "tz": "Europe/Berlin"}},
+  {"name": "Pirmasens", "stateCode": "RP", "state": "Rheinland-Pfalz", "county": "Pirmasens", "metro": "Westpfalz", "population": 40403, "geo": {"lat": 49.2028, "lon": 7.6050, "tz": "Europe/Berlin"}}
+]

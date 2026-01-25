@@ -1,0 +1,17 @@
+[
+  {"name": "Las Vegas", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 641903, "geo": {"lat": 36.1699, "lon": -115.1398, "tz": "America/Los_Angeles"}},
+  {"name": "Henderson", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 320189, "geo": {"lat": 36.0395, "lon": -114.9817, "tz": "America/Los_Angeles"}},
+  {"name": "Reno", "stateCode": "NV", "state": "Nevada", "county": "Washoe", "metro": "Reno-Sparks", "population": 264165, "geo": {"lat": 39.5296, "lon": -119.8138, "tz": "America/Los_Angeles"}},
+  {"name": "North Las Vegas", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 262527, "geo": {"lat": 36.1989, "lon": -115.1175, "tz": "America/Los_Angeles"}},
+  {"name": "Paradise", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 223167, "geo": {"lat": 36.0970, "lon": -115.1467, "tz": "America/Los_Angeles"}},
+  {"name": "Sunrise Manor", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 198187, "geo": {"lat": 36.2111, "lon": -115.0728, "tz": "America/Los_Angeles"}},
+  {"name": "Spring Valley", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 215551, "geo": {"lat": 36.0836, "lon": -115.2453, "tz": "America/Los_Angeles"}},
+  {"name": "Enterprise", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 193875, "geo": {"lat": 36.0256, "lon": -115.2378, "tz": "America/Los_Angeles"}},
+  {"name": "Sparks", "stateCode": "NV", "state": "Nevada", "county": "Washoe", "metro": "Reno-Sparks", "population": 108445, "geo": {"lat": 39.5349, "lon": -119.7527, "tz": "America/Los_Angeles"}},
+  {"name": "Carson City", "stateCode": "NV", "state": "Nevada", "county": "Carson City", "metro": "Carson City", "population": 58639, "geo": {"lat": 39.1638, "lon": -119.7674, "tz": "America/Los_Angeles"}},
+  {"name": "Whitney", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 44173, "geo": {"lat": 36.1008, "lon": -115.0372, "tz": "America/Los_Angeles"}},
+  {"name": "Summerlin South", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 61380, "geo": {"lat": 36.1191, "lon": -115.3540, "tz": "America/Los_Angeles"}},
+  {"name": "Elko", "stateCode": "NV", "state": "Nevada", "county": "Elko", "metro": "Elko", "population": 20279, "geo": {"lat": 40.8324, "lon": -115.7631, "tz": "America/Los_Angeles"}},
+  {"name": "Fernley", "stateCode": "NV", "state": "Nevada", "county": "Lyon", "metro": "Reno-Sparks", "population": 22282, "geo": {"lat": 39.6080, "lon": -119.2518, "tz": "America/Los_Angeles"}},
+  {"name": "Mesquite", "stateCode": "NV", "state": "Nevada", "county": "Clark", "metro": "Las Vegas", "population": 20700, "geo": {"lat": 36.8055, "lon": -114.0672, "tz": "America/Denver"}}
+]
