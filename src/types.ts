@@ -101,3 +101,75 @@ export interface CountryDivision {
 export interface CountryList {
   [countryCode: string]: CountryAttributes
 }
+
+// ============================================================================
+// City Types
+// ============================================================================
+
+/**
+ * Geographic coordinates
+ */
+export interface GeoCoordinates {
+  latitude: number
+  longitude: number
+}
+
+/**
+ * City geographic information
+ */
+export interface CityGeo {
+  latitude: number
+  longitude: number
+  timezone?: string
+}
+
+/**
+ * City attributes
+ */
+export interface CityAttributes {
+  /** City name */
+  name: string
+  /** State/province code (e.g., "CA" for California) */
+  stateCode: string
+  /** State/province full name */
+  state: string
+  /** County or district name */
+  county?: string
+  /** Metropolitan area name */
+  metro?: string
+  /** Population */
+  population?: number
+  /** Geographic data */
+  geo: CityGeo
+}
+
+/**
+ * City list keyed by slug
+ */
+export interface CityList {
+  [slug: string]: CityAttributes
+}
+
+/**
+ * Resolved geographic location
+ */
+export interface GeoLocation {
+  /** ISO 3166-1 alpha-2 country code */
+  countryCode: string
+  /** Country name */
+  countryName: string
+  /** State/province/region name */
+  region?: string
+  /** State/province/region code */
+  regionCode?: string
+  /** City name */
+  city?: string
+  /** Metro area */
+  metro?: string
+  /** Latitude */
+  latitude?: number
+  /** Longitude */
+  longitude?: number
+  /** Timezone identifier */
+  timezone?: string
+}

@@ -1,0 +1,431 @@
+{
+  "santa-monica": {
+    "name": "Santa Monica",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 93076,
+    "geo": {
+      "latitude": 34.0195,
+      "longitude": -118.4912,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "los-angeles": {
+    "name": "Los Angeles",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 3898747,
+    "geo": {
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "new-york": {
+    "name": "New York",
+    "stateCode": "NY",
+    "state": "New York",
+    "county": "New York",
+    "metro": "New York-Newark-Jersey City",
+    "population": 8336817,
+    "geo": {
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "timezone": "America/New_York"
+    }
+  },
+  "chicago": {
+    "name": "Chicago",
+    "stateCode": "IL",
+    "state": "Illinois",
+    "county": "Cook",
+    "metro": "Chicago-Naperville-Elgin",
+    "population": 2693976,
+    "geo": {
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "timezone": "America/Chicago"
+    }
+  },
+  "houston": {
+    "name": "Houston",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Harris",
+    "metro": "Houston-The Woodlands-Sugar Land",
+    "population": 2304580,
+    "geo": {
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "timezone": "America/Chicago"
+    }
+  },
+  "phoenix": {
+    "name": "Phoenix",
+    "stateCode": "AZ",
+    "state": "Arizona",
+    "county": "Maricopa",
+    "metro": "Phoenix-Mesa-Chandler",
+    "population": 1608139,
+    "geo": {
+      "latitude": 33.4484,
+      "longitude": -112.0740,
+      "timezone": "America/Phoenix"
+    }
+  },
+  "philadelphia": {
+    "name": "Philadelphia",
+    "stateCode": "PA",
+    "state": "Pennsylvania",
+    "county": "Philadelphia",
+    "metro": "Philadelphia-Camden-Wilmington",
+    "population": 1584064,
+    "geo": {
+      "latitude": 39.9526,
+      "longitude": -75.1652,
+      "timezone": "America/New_York"
+    }
+  },
+  "san-antonio": {
+    "name": "San Antonio",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Bexar",
+    "metro": "San Antonio-New Braunfels",
+    "population": 1547253,
+    "geo": {
+      "latitude": 29.4241,
+      "longitude": -98.4936,
+      "timezone": "America/Chicago"
+    }
+  },
+  "san-diego": {
+    "name": "San Diego",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Diego",
+    "metro": "San Diego-Chula Vista-Carlsbad",
+    "population": 1386932,
+    "geo": {
+      "latitude": 32.7157,
+      "longitude": -117.1611,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "dallas": {
+    "name": "Dallas",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Dallas",
+    "metro": "Dallas-Fort Worth-Arlington",
+    "population": 1304379,
+    "geo": {
+      "latitude": 32.7767,
+      "longitude": -96.7970,
+      "timezone": "America/Chicago"
+    }
+  },
+  "san-jose": {
+    "name": "San Jose",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Santa Clara",
+    "metro": "San Jose-Sunnyvale-Santa Clara",
+    "population": 1013240,
+    "geo": {
+      "latitude": 37.3382,
+      "longitude": -121.8863,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "austin": {
+    "name": "Austin",
+    "stateCode": "TX",
+    "state": "Texas",
+    "county": "Travis",
+    "metro": "Austin-Round Rock-Georgetown",
+    "population": 978908,
+    "geo": {
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "timezone": "America/Chicago"
+    }
+  },
+  "san-francisco": {
+    "name": "San Francisco",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "San Francisco",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 873965,
+    "geo": {
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "seattle": {
+    "name": "Seattle",
+    "stateCode": "WA",
+    "state": "Washington",
+    "county": "King",
+    "metro": "Seattle-Tacoma-Bellevue",
+    "population": 737015,
+    "geo": {
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "denver": {
+    "name": "Denver",
+    "stateCode": "CO",
+    "state": "Colorado",
+    "county": "Denver",
+    "metro": "Denver-Aurora-Lakewood",
+    "population": 727211,
+    "geo": {
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "timezone": "America/Denver"
+    }
+  },
+  "boston": {
+    "name": "Boston",
+    "stateCode": "MA",
+    "state": "Massachusetts",
+    "county": "Suffolk",
+    "metro": "Boston-Cambridge-Newton",
+    "population": 692600,
+    "geo": {
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "timezone": "America/New_York"
+    }
+  },
+  "miami": {
+    "name": "Miami",
+    "stateCode": "FL",
+    "state": "Florida",
+    "county": "Miami-Dade",
+    "metro": "Miami-Fort Lauderdale-Pompano Beach",
+    "population": 467963,
+    "geo": {
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "timezone": "America/New_York"
+    }
+  },
+  "atlanta": {
+    "name": "Atlanta",
+    "stateCode": "GA",
+    "state": "Georgia",
+    "county": "Fulton",
+    "metro": "Atlanta-Sandy Springs-Alpharetta",
+    "population": 498715,
+    "geo": {
+      "latitude": 33.7490,
+      "longitude": -84.3880,
+      "timezone": "America/New_York"
+    }
+  },
+  "las-vegas": {
+    "name": "Las Vegas",
+    "stateCode": "NV",
+    "state": "Nevada",
+    "county": "Clark",
+    "metro": "Las Vegas-Henderson-Paradise",
+    "population": 641903,
+    "geo": {
+      "latitude": 36.1699,
+      "longitude": -115.1398,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "portland": {
+    "name": "Portland",
+    "stateCode": "OR",
+    "state": "Oregon",
+    "county": "Multnomah",
+    "metro": "Portland-Vancouver-Hillsboro",
+    "population": 652503,
+    "geo": {
+      "latitude": 45.5152,
+      "longitude": -122.6784,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "long-beach": {
+    "name": "Long Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 466742,
+    "geo": {
+      "latitude": 33.7701,
+      "longitude": -118.1937,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "oakland": {
+    "name": "Oakland",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Alameda",
+    "metro": "San Francisco-Oakland-Berkeley",
+    "population": 433031,
+    "geo": {
+      "latitude": 37.8044,
+      "longitude": -122.2712,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "minneapolis": {
+    "name": "Minneapolis",
+    "stateCode": "MN",
+    "state": "Minnesota",
+    "county": "Hennepin",
+    "metro": "Minneapolis-St. Paul-Bloomington",
+    "population": 429954,
+    "geo": {
+      "latitude": 44.9778,
+      "longitude": -93.2650,
+      "timezone": "America/Chicago"
+    }
+  },
+  "tampa": {
+    "name": "Tampa",
+    "stateCode": "FL",
+    "state": "Florida",
+    "county": "Hillsborough",
+    "metro": "Tampa-St. Petersburg-Clearwater",
+    "population": 399700,
+    "geo": {
+      "latitude": 27.9506,
+      "longitude": -82.4572,
+      "timezone": "America/New_York"
+    }
+  },
+  "orlando": {
+    "name": "Orlando",
+    "stateCode": "FL",
+    "state": "Florida",
+    "county": "Orange",
+    "metro": "Orlando-Kissimmee-Sanford",
+    "population": 307573,
+    "geo": {
+      "latitude": 28.5383,
+      "longitude": -81.3792,
+      "timezone": "America/New_York"
+    }
+  },
+  "beverly-hills": {
+    "name": "Beverly Hills",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 33792,
+    "geo": {
+      "latitude": 34.0736,
+      "longitude": -118.4004,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "pasadena": {
+    "name": "Pasadena",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 138699,
+    "geo": {
+      "latitude": 34.1478,
+      "longitude": -118.1445,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "burbank": {
+    "name": "Burbank",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 107337,
+    "geo": {
+      "latitude": 34.1808,
+      "longitude": -118.3090,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "glendale": {
+    "name": "Glendale",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 196543,
+    "geo": {
+      "latitude": 34.1425,
+      "longitude": -118.2551,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "malibu": {
+    "name": "Malibu",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 12645,
+    "geo": {
+      "latitude": 34.0259,
+      "longitude": -118.7798,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "venice": {
+    "name": "Venice",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 40885,
+    "geo": {
+      "latitude": 33.9850,
+      "longitude": -118.4695,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "culver-city": {
+    "name": "Culver City",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 39185,
+    "geo": {
+      "latitude": 34.0211,
+      "longitude": -118.3965,
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  "west-hollywood": {
+    "name": "West Hollywood",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 35716,
+    "geo": {
+      "latitude": 34.0900,
+      "longitude": -118.3617,
+      "timezone": "America/Los_Angeles"
+    }
+  }
+}
