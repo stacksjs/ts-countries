@@ -1132,5 +1132,824 @@
     "metro": "Santa Cruz-Watsonville",
     "population": 64725,
     "geo": { "latitude": 36.9741, "longitude": -122.0308, "timezone": "America/Los_Angeles" }
+  },
+  "playa-vista": {
+    "name": "Playa Vista",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 8000,
+    "geo": { "latitude": 33.9742, "longitude": -118.4166, "timezone": "America/Los_Angeles" }
+  },
+  "marina-del-rey": {
+    "name": "Marina del Rey",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 10065,
+    "geo": { "latitude": 33.9802, "longitude": -118.4517, "timezone": "America/Los_Angeles" }
+  },
+  "mar-vista": {
+    "name": "Mar Vista",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 42610,
+    "geo": { "latitude": 34.0008, "longitude": -118.4298, "timezone": "America/Los_Angeles" }
+  },
+  "westchester": {
+    "name": "Westchester",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 54815,
+    "geo": { "latitude": 33.9617, "longitude": -118.3967, "timezone": "America/Los_Angeles" }
+  },
+  "el-segundo": {
+    "name": "El Segundo",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 17193,
+    "geo": { "latitude": 33.9192, "longitude": -118.4165, "timezone": "America/Los_Angeles" }
+  },
+  "hawthorne": {
+    "name": "Hawthorne",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 88083,
+    "geo": { "latitude": 33.9164, "longitude": -118.3526, "timezone": "America/Los_Angeles" }
+  },
+  "gardena": {
+    "name": "Gardena",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 61027,
+    "geo": { "latitude": 33.8883, "longitude": -118.3090, "timezone": "America/Los_Angeles" }
+  },
+  "lomita": {
+    "name": "Lomita",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 20813,
+    "geo": { "latitude": 33.7923, "longitude": -118.3151, "timezone": "America/Los_Angeles" }
+  },
+  "san-pedro": {
+    "name": "San Pedro",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 80065,
+    "geo": { "latitude": 33.7358, "longitude": -118.2923, "timezone": "America/Los_Angeles" }
+  },
+  "wilmington": {
+    "name": "Wilmington",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 55045,
+    "geo": { "latitude": 33.7838, "longitude": -118.2637, "timezone": "America/Los_Angeles" }
+  },
+  "harbor-city": {
+    "name": "Harbor City",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 25478,
+    "geo": { "latitude": 33.7967, "longitude": -118.2962, "timezone": "America/Los_Angeles" }
+  },
+  "palos-verdes-estates": {
+    "name": "Palos Verdes Estates",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 13438,
+    "geo": { "latitude": 33.7866, "longitude": -118.3903, "timezone": "America/Los_Angeles" }
+  },
+  "rolling-hills": {
+    "name": "Rolling Hills",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 1739,
+    "geo": { "latitude": 33.7558, "longitude": -118.3576, "timezone": "America/Los_Angeles" }
+  },
+  "rolling-hills-estates": {
+    "name": "Rolling Hills Estates",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 8139,
+    "geo": { "latitude": 33.7775, "longitude": -118.3576, "timezone": "America/Los_Angeles" }
+  },
+  "signal-hill": {
+    "name": "Signal Hill",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 11732,
+    "geo": { "latitude": 33.8044, "longitude": -118.1678, "timezone": "America/Los_Angeles" }
+  },
+  "lakewood": {
+    "name": "Lakewood",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 80048,
+    "geo": { "latitude": 33.8536, "longitude": -118.1340, "timezone": "America/Los_Angeles" }
+  },
+  "cerritos": {
+    "name": "Cerritos",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 51452,
+    "geo": { "latitude": 33.8583, "longitude": -118.0648, "timezone": "America/Los_Angeles" }
+  },
+  "artesia": {
+    "name": "Artesia",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 16522,
+    "geo": { "latitude": 33.8658, "longitude": -118.0832, "timezone": "America/Los_Angeles" }
+  },
+  "hawaiian-gardens": {
+    "name": "Hawaiian Gardens",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 14254,
+    "geo": { "latitude": 33.8314, "longitude": -118.0726, "timezone": "America/Los_Angeles" }
+  },
+  "la-mirada": {
+    "name": "La Mirada",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 48008,
+    "geo": { "latitude": 33.9172, "longitude": -118.0120, "timezone": "America/Los_Angeles" }
+  },
+  "la-habra": {
+    "name": "La Habra",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 63542,
+    "geo": { "latitude": 33.9319, "longitude": -117.9462, "timezone": "America/Los_Angeles" }
+  },
+  "brea": {
+    "name": "Brea",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 47325,
+    "geo": { "latitude": 33.9167, "longitude": -117.9001, "timezone": "America/Los_Angeles" }
+  },
+  "yorba-linda": {
+    "name": "Yorba Linda",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 68706,
+    "geo": { "latitude": 33.8886, "longitude": -117.8131, "timezone": "America/Los_Angeles" }
+  },
+  "placentia": {
+    "name": "Placentia",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 52333,
+    "geo": { "latitude": 33.8722, "longitude": -117.8703, "timezone": "America/Los_Angeles" }
+  },
+  "la-palma": {
+    "name": "La Palma",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 15820,
+    "geo": { "latitude": 33.8464, "longitude": -118.0467, "timezone": "America/Los_Angeles" }
+  },
+  "cypress": {
+    "name": "Cypress",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 49833,
+    "geo": { "latitude": 33.8170, "longitude": -118.0373, "timezone": "America/Los_Angeles" }
+  },
+  "los-alamitos": {
+    "name": "Los Alamitos",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 11721,
+    "geo": { "latitude": 33.8031, "longitude": -118.0726, "timezone": "America/Los_Angeles" }
+  },
+  "seal-beach": {
+    "name": "Seal Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 24168,
+    "geo": { "latitude": 33.7414, "longitude": -118.1048, "timezone": "America/Los_Angeles" }
+  },
+  "sunset-beach": {
+    "name": "Sunset Beach",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 962,
+    "geo": { "latitude": 33.7178, "longitude": -118.0726, "timezone": "America/Los_Angeles" }
+  },
+  "stanton": {
+    "name": "Stanton",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 38317,
+    "geo": { "latitude": 33.8025, "longitude": -117.9931, "timezone": "America/Los_Angeles" }
+  },
+  "westminster": {
+    "name": "Westminster",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 91137,
+    "geo": { "latitude": 33.7514, "longitude": -117.9940, "timezone": "America/Los_Angeles" }
+  },
+  "fountain-valley": {
+    "name": "Fountain Valley",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 56707,
+    "geo": { "latitude": 33.7092, "longitude": -117.9536, "timezone": "America/Los_Angeles" }
+  },
+  "midway-city": {
+    "name": "Midway City",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 8485,
+    "geo": { "latitude": 33.7447, "longitude": -117.9870, "timezone": "America/Los_Angeles" }
+  },
+  "laguna-niguel": {
+    "name": "Laguna Niguel",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 65316,
+    "geo": { "latitude": 33.5225, "longitude": -117.7076, "timezone": "America/Los_Angeles" }
+  },
+  "laguna-hills": {
+    "name": "Laguna Hills",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 31572,
+    "geo": { "latitude": 33.5963, "longitude": -117.7031, "timezone": "America/Los_Angeles" }
+  },
+  "laguna-woods": {
+    "name": "Laguna Woods",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 16518,
+    "geo": { "latitude": 33.6103, "longitude": -117.7253, "timezone": "America/Los_Angeles" }
+  },
+  "aliso-viejo": {
+    "name": "Aliso Viejo",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 51372,
+    "geo": { "latitude": 33.5650, "longitude": -117.7256, "timezone": "America/Los_Angeles" }
+  },
+  "dana-point": {
+    "name": "Dana Point",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 33107,
+    "geo": { "latitude": 33.4669, "longitude": -117.6981, "timezone": "America/Los_Angeles" }
+  },
+  "san-juan-capistrano": {
+    "name": "San Juan Capistrano",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 36821,
+    "geo": { "latitude": 33.5017, "longitude": -117.6628, "timezone": "America/Los_Angeles" }
+  },
+  "san-clemente": {
+    "name": "San Clemente",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 65405,
+    "geo": { "latitude": 33.4270, "longitude": -117.6120, "timezone": "America/Los_Angeles" }
+  },
+  "rancho-santa-margarita": {
+    "name": "Rancho Santa Margarita",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 48960,
+    "geo": { "latitude": 33.6409, "longitude": -117.6031, "timezone": "America/Los_Angeles" }
+  },
+  "ladera-ranch": {
+    "name": "Ladera Ranch",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 30288,
+    "geo": { "latitude": 33.5472, "longitude": -117.6356, "timezone": "America/Los_Angeles" }
+  },
+  "coto-de-caza": {
+    "name": "Coto de Caza",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Orange",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 14931,
+    "geo": { "latitude": 33.5958, "longitude": -117.5867, "timezone": "America/Los_Angeles" }
+  },
+  "bellflower": {
+    "name": "Bellflower",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 79877,
+    "geo": { "latitude": 33.8817, "longitude": -118.1170, "timezone": "America/Los_Angeles" }
+  },
+  "paramount": {
+    "name": "Paramount",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 56274,
+    "geo": { "latitude": 33.8894, "longitude": -118.1597, "timezone": "America/Los_Angeles" }
+  },
+  "lynwood": {
+    "name": "Lynwood",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 72828,
+    "geo": { "latitude": 33.9303, "longitude": -118.2115, "timezone": "America/Los_Angeles" }
+  },
+  "bell": {
+    "name": "Bell",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 37049,
+    "geo": { "latitude": 33.9775, "longitude": -118.1870, "timezone": "America/Los_Angeles" }
+  },
+  "bell-gardens": {
+    "name": "Bell Gardens",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 44054,
+    "geo": { "latitude": 33.9653, "longitude": -118.1514, "timezone": "America/Los_Angeles" }
+  },
+  "cudahy": {
+    "name": "Cudahy",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 23805,
+    "geo": { "latitude": 33.9608, "longitude": -118.1848, "timezone": "America/Los_Angeles" }
+  },
+  "maywood": {
+    "name": "Maywood",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 27395,
+    "geo": { "latitude": 33.9867, "longitude": -118.1853, "timezone": "America/Los_Angeles" }
+  },
+  "huntington-park": {
+    "name": "Huntington Park",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 57761,
+    "geo": { "latitude": 33.9817, "longitude": -118.2251, "timezone": "America/Los_Angeles" }
+  },
+  "vernon": {
+    "name": "Vernon",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 222,
+    "geo": { "latitude": 34.0039, "longitude": -118.2303, "timezone": "America/Los_Angeles" }
+  },
+  "commerce": {
+    "name": "Commerce",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 12411,
+    "geo": { "latitude": 33.9986, "longitude": -118.1598, "timezone": "America/Los_Angeles" }
+  },
+  "montebello": {
+    "name": "Montebello",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 63495,
+    "geo": { "latitude": 34.0165, "longitude": -118.1137, "timezone": "America/Los_Angeles" }
+  },
+  "pico-rivera": {
+    "name": "Pico Rivera",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 62088,
+    "geo": { "latitude": 33.9831, "longitude": -118.0967, "timezone": "America/Los_Angeles" }
+  },
+  "santa-fe-springs": {
+    "name": "Santa Fe Springs",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 18102,
+    "geo": { "latitude": 33.9472, "longitude": -118.0853, "timezone": "America/Los_Angeles" }
+  },
+  "south-el-monte": {
+    "name": "South El Monte",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 21144,
+    "geo": { "latitude": 34.0519, "longitude": -118.0467, "timezone": "America/Los_Angeles" }
+  },
+  "rosemead": {
+    "name": "Rosemead",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 53764,
+    "geo": { "latitude": 34.0806, "longitude": -118.0728, "timezone": "America/Los_Angeles" }
+  },
+  "temple-city": {
+    "name": "Temple City",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 36665,
+    "geo": { "latitude": 34.1072, "longitude": -118.0578, "timezone": "America/Los_Angeles" }
+  },
+  "san-gabriel": {
+    "name": "San Gabriel",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 40275,
+    "geo": { "latitude": 34.0961, "longitude": -118.1058, "timezone": "America/Los_Angeles" }
+  },
+  "san-marino": {
+    "name": "San Marino",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 13317,
+    "geo": { "latitude": 34.1215, "longitude": -118.1065, "timezone": "America/Los_Angeles" }
+  },
+  "south-pasadena": {
+    "name": "South Pasadena",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 26322,
+    "geo": { "latitude": 34.1161, "longitude": -118.1506, "timezone": "America/Los_Angeles" }
+  },
+  "arcadia": {
+    "name": "Arcadia",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 57939,
+    "geo": { "latitude": 34.1397, "longitude": -118.0353, "timezone": "America/Los_Angeles" }
+  },
+  "monrovia": {
+    "name": "Monrovia",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 38800,
+    "geo": { "latitude": 34.1442, "longitude": -117.9989, "timezone": "America/Los_Angeles" }
+  },
+  "duarte": {
+    "name": "Duarte",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 22016,
+    "geo": { "latitude": 34.1395, "longitude": -117.9773, "timezone": "America/Los_Angeles" }
+  },
+  "azusa": {
+    "name": "Azusa",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 50269,
+    "geo": { "latitude": 34.1336, "longitude": -117.9076, "timezone": "America/Los_Angeles" }
+  },
+  "glendora": {
+    "name": "Glendora",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 52558,
+    "geo": { "latitude": 34.1361, "longitude": -117.8653, "timezone": "America/Los_Angeles" }
+  },
+  "san-dimas": {
+    "name": "San Dimas",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 35321,
+    "geo": { "latitude": 34.1067, "longitude": -117.8067, "timezone": "America/Los_Angeles" }
+  },
+  "la-verne": {
+    "name": "La Verne",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 32193,
+    "geo": { "latitude": 34.1008, "longitude": -117.7678, "timezone": "America/Los_Angeles" }
+  },
+  "claremont": {
+    "name": "Claremont",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 36266,
+    "geo": { "latitude": 34.0967, "longitude": -117.7198, "timezone": "America/Los_Angeles" }
+  },
+  "diamond-bar": {
+    "name": "Diamond Bar",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 55720,
+    "geo": { "latitude": 34.0286, "longitude": -117.8103, "timezone": "America/Los_Angeles" }
+  },
+  "walnut": {
+    "name": "Walnut",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 30189,
+    "geo": { "latitude": 34.0203, "longitude": -117.8653, "timezone": "America/Los_Angeles" }
+  },
+  "rowland-heights": {
+    "name": "Rowland Heights",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 49536,
+    "geo": { "latitude": 33.9761, "longitude": -117.9053, "timezone": "America/Los_Angeles" }
+  },
+  "hacienda-heights": {
+    "name": "Hacienda Heights",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 54038,
+    "geo": { "latitude": 33.9931, "longitude": -117.9689, "timezone": "America/Los_Angeles" }
+  },
+  "industry": {
+    "name": "Industry",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 219,
+    "geo": { "latitude": 34.0197, "longitude": -117.9584, "timezone": "America/Los_Angeles" }
+  },
+  "la-puente": {
+    "name": "La Puente",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 39816,
+    "geo": { "latitude": 34.0200, "longitude": -117.9495, "timezone": "America/Los_Angeles" }
+  },
+  "covina": {
+    "name": "Covina",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 49387,
+    "geo": { "latitude": 34.0900, "longitude": -117.8903, "timezone": "America/Los_Angeles" }
+  },
+  "baldwin-park": {
+    "name": "Baldwin Park",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 77052,
+    "geo": { "latitude": 34.0853, "longitude": -117.9609, "timezone": "America/Los_Angeles" }
+  },
+  "irwindale": {
+    "name": "Irwindale",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 1422,
+    "geo": { "latitude": 34.1070, "longitude": -117.9356, "timezone": "America/Los_Angeles" }
+  },
+  "sierra-madre": {
+    "name": "Sierra Madre",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 10829,
+    "geo": { "latitude": 34.1617, "longitude": -118.0528, "timezone": "America/Los_Angeles" }
+  },
+  "la-canada-flintridge": {
+    "name": "La Canada Flintridge",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 20318,
+    "geo": { "latitude": 34.2122, "longitude": -118.1878, "timezone": "America/Los_Angeles" }
+  },
+  "altadena": {
+    "name": "Altadena",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 42777,
+    "geo": { "latitude": 34.1897, "longitude": -118.1314, "timezone": "America/Los_Angeles" }
+  },
+  "eagle-rock": {
+    "name": "Eagle Rock",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 36334,
+    "geo": { "latitude": 34.1392, "longitude": -118.2114, "timezone": "America/Los_Angeles" }
+  },
+  "highland-park": {
+    "name": "Highland Park",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 58716,
+    "geo": { "latitude": 34.1114, "longitude": -118.1906, "timezone": "America/Los_Angeles" }
+  },
+  "mount-washington": {
+    "name": "Mount Washington",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 24000,
+    "geo": { "latitude": 34.0964, "longitude": -118.2078, "timezone": "America/Los_Angeles" }
+  },
+  "silver-lake": {
+    "name": "Silver Lake",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 32890,
+    "geo": { "latitude": 34.0869, "longitude": -118.2706, "timezone": "America/Los_Angeles" }
+  },
+  "echo-park": {
+    "name": "Echo Park",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 43832,
+    "geo": { "latitude": 34.0781, "longitude": -118.2606, "timezone": "America/Los_Angeles" }
+  },
+  "los-feliz": {
+    "name": "Los Feliz",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 33100,
+    "geo": { "latitude": 34.1064, "longitude": -118.2867, "timezone": "America/Los_Angeles" }
+  },
+  "atwater-village": {
+    "name": "Atwater Village",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 15000,
+    "geo": { "latitude": 34.1161, "longitude": -118.2586, "timezone": "America/Los_Angeles" }
+  },
+  "glassell-park": {
+    "name": "Glassell Park",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 26000,
+    "geo": { "latitude": 34.1167, "longitude": -118.2289, "timezone": "America/Los_Angeles" }
+  },
+  "lawndale": {
+    "name": "Lawndale",
+    "stateCode": "CA",
+    "state": "California",
+    "county": "Los Angeles",
+    "metro": "Los Angeles-Long Beach-Anaheim",
+    "population": 33406,
+    "geo": { "latitude": 33.8872, "longitude": -118.3526, "timezone": "America/Los_Angeles" }
   }
 }
