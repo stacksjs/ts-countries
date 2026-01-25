@@ -1,45 +1,45 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "ts-countries"
-  text: "Elegant Country Data Management"
-  tagline: "A powerful TypeScript library for handling comprehensive country information."
-  image: /images/logo-white.png
+  text: "Comprehensive Country Data"
+  tagline: "A modern TypeScript library for managing and retrieving country data with a simple and intuitive API."
   actions:
     - theme: brand
       text: Get Started
-      link: /usage
+      link: /guide/getting-started
     - theme: alt
       text: View on GitHub
       link: https://github.com/stacksjs/ts-countries
 
 features:
   - title: "Comprehensive Data"
-    icon: "🌍"
-    details: "Access detailed country information including names, codes, currencies, languages, and more. Full support for ISO 3166 standards."
-  - title: "Smart Filtering"
-    icon: "🔍"
-    details: "Powerful query capabilities to filter and search countries by any attribute using an intuitive API."
+    details: "Extensive country info including names, codes, currencies, languages, timezones, borders, and more."
+
+  - title: "Smart Search"
+    details: "Powerful filtering and search capabilities to find countries by any attribute."
+
   - title: "i18n Ready"
-    icon: "🌐"
-    details: "Built-in support for translations, native names, and localized data across multiple languages."
-  - title: "Type Safety"
-    icon: "💪"
+    details: "Support for multiple languages and translations including native names and localized data."
+
+  - title: "Type-Safe"
     details: "Full TypeScript support with comprehensive type definitions for reliable development."
+
+  - title: "ISO Compliant"
+    details: "Implements ISO 3166-1 standards for country codes (alpha-2, alpha-3, numeric)."
+
   - title: "Geographic Data"
-    icon: "🗺️"
-    details: "Access to detailed geographic information, borders, coordinates, and administrative divisions."
+    details: "Access coordinates, borders, regions, continents, area, and GeoJSON data."
+
+  - title: "Currency & Phone"
+    details: "Currency information, calling codes, phone formats, and international dialing prefixes."
+
+  - title: "Administrative Divisions"
+    details: "Access states, provinces, and other administrative divisions for each country."
+
   - title: "Zero Dependencies"
-    icon: "📦"
     details: "Lightweight and self-contained with built-in caching for optimal performance."
-  - title: "Modern Tooling"
-    icon: "🛠️"
-    details: "Built with modern TypeScript features and best practices for seamless integration."
-  - title: "Well Tested"
-    icon: "✅"
-    details: "Comprehensive test suite ensuring reliability and correctness of data."
 ---
 
 <Home />
