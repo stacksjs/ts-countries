@@ -1,6 +1,4 @@
-import type { PickierConfig } from 'pickier'
-
-const config: PickierConfig = {
+const config = {
   verbose: false,
   ignores: [
     '**/node_modules/**',

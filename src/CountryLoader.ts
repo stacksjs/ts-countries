@@ -29,6 +29,8 @@ export class CountryLoader {
    * @returns The country data or instance
    * @throws CountryLoaderException if the country code is invalid
    */
+  public static country(code: string, hydrate?: true): Country
+  public static country(code: string, hydrate: false): CountryAttributes
   public static country(code: string, hydrate = true): Country | CountryAttributes {
     code = code.toLowerCase()
 

@@ -10,8 +10,10 @@ import { CurrencyLoader } from './CurrencyLoader'
  * @param hydrate Whether to hydrate the country data into a Country instance
  * @returns The country data or instance
  */
+export function country(code: string, hydrate?: true): Country
+export function country(code: string, hydrate: false): CountryAttributes
 export function country(code: string, hydrate = true): Country | CountryAttributes {
-  return CountryLoader.country(code, hydrate)
+  return CountryLoader.country(code, hydrate as boolean as true)
 }
 
 /**
