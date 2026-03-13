@@ -2,7 +2,7 @@
 
 ## About
 
-A modern TypeScript library for retrieving country data with a simple and intuitive API.
+A modern TypeScript library for managing and retrieving comprehensive country data, including names, ISO 3166-1 codes, currencies, languages, timezones, geographic data, and translations. It provides a `Country` class with rich accessor methods, a `CountryLoader` with built-in caching, and a `CountryCollection` for filtering and searching across countries. The library is fully typed, zero-dependency, and supports i18n with multiple language translations.
 
 ## Linting
 
