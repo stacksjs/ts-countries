@@ -8,7 +8,7 @@ import { countries, country } from 'ts-countries'
 // import { Country, CountryCollection, CountryLoader } from 'ts-countries'
 ```
 
-### Working with Single Countries
+## Working with Single Countries
 
 The simplest way to work with a single country is using the `country()` function:
 
