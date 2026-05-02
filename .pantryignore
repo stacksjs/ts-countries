@@ -1,0 +1,45 @@
+# Pantry uses this file in preference to .gitignore when packing the
+# tarball. The published artifact only needs `dist/`, README, LICENSE
+# — everything below stays out so the upload stays under the registry's
+# 50MB cap.
+
+# Source — already compiled into dist/ at publish time
+src
+test
+
+# Workspace + build state
+node_modules
+**/node_modules
+.cache
+.stx
+coverage
+lib-cov
+logs
+temp
+*.log
+*.tgz
+
+# Repo metadata + tooling
+.git
+.github
+.vscode
+.zed
+.cursor
+.idea
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Docs (built separately, not part of the published lib)
+docs
+docs/.vitepress/cache
+
+# Buddy / pantry workspace artifacts
+pantry
+buddy-bot.config.ts
+
+# Config files only relevant to development
+bunfig.toml
+tsconfig.json
+.config
