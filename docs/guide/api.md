@@ -17,6 +17,7 @@ const japan = country('JP')
 ```
 
 **Parameters:**
+
 - `code` (string) - ISO 3166-1 alpha-2 country code (e.g., "US", "DE", "JP")
 
 **Returns:** `Country` instance
@@ -44,6 +45,7 @@ const detailedInstances = countries(true, true)
 ```
 
 **Parameters:**
+
 - `longlist` (boolean, default: false) - Return detailed country data
 - `hydrate` (boolean, default: false) - Return Country instances instead of raw data
 

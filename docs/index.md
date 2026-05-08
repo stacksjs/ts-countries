@@ -41,5 +41,3 @@ features:
   - title: "Zero Dependencies"
     details: "Lightweight and self-contained with built-in caching for optimal performance."
 ---
-
-<Home />
