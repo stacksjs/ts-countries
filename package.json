@@ -52,7 +52,7 @@
     "typecheck": "bun --bun tsc --noEmit"
   },
   "devDependencies": {
-    "better-dx": "^0.2.7",
+    "better-dx": "^0.2.15",
     "bun-git-hooks": "^0.3.1",
     "bun-plugin-dtsx": "^0.9.13"
   },
