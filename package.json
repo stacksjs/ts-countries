@@ -1,7 +1,7 @@
 {
   "name": "ts-countries",
   "type": "module",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A modern TypeScript library for retrieving country data with a simple and intuitive API.",
   "author": "Chris Breuer <chris@stacksjs.org>",
   "license": "MIT",
@@ -33,6 +33,11 @@
   },
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "files": [
+    "README.md",
+    "LICENSE.md",
+    "dist"
+  ],
   "scripts": {
     "build": "bun --bun build.ts",
     "fresh": "bunx rimraf node_modules/ bun.lock && bun i",
