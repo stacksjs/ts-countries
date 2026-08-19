@@ -1,11 +1,9 @@
-import type { BunpressConfig } from 'bunpress'
+import type { BunPressConfig } from '@stacksjs/bunpress'
 
-const config: BunpressConfig = {
-  name: 'ts-countries',
+const config: BunPressConfig = {
+  title: 'ts-countries',
   description: 'A modern TypeScript library for comprehensive country data with a simple API',
   url: 'https://ts-countries.stacksjs.org',
-  theme: 'docs',
-
   nav: [
     { text: 'Guide', link: '/guide' },
     { text: 'Examples', link: '/examples' },
@@ -35,16 +33,17 @@ const config: BunpressConfig = {
     ],
   },
 
-  search: true,
-  editLink: {
-    pattern: 'https://github.com/stacksjs/ts-countries/edit/main/docs/:path',
-    text: 'Edit this page on GitHub',
+  themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/stacksjs/ts-countries/edit/main/docs/:path',
+      text: 'Edit this page on GitHub',
+    },
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/stacksjs/ts-countries' },
+      { icon: 'discord', link: 'https://discord.gg/stacksjs' },
+    ],
   },
 
-  socialLinks: [
-    { icon: 'github', link: 'https://github.com/stacksjs/ts-countries' },
-    { icon: 'discord', link: 'https://discord.gg/stacksjs' },
-  ],
 }
 
 export default config
