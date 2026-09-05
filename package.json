@@ -57,10 +57,10 @@
     "typecheck": "bun --bun tsc --noEmit"
   },
   "devDependencies": {
-    "@stacksjs/bunpress": "^0.2.11",
-    "better-dx": "^0.2.15",
-    "bun-git-hooks": "^0.3.1",
-    "bun-plugin-dtsx": "^0.11.10"
+    "@stacksjs/bunpress": "^0.2.14",
+    "better-dx": "^0.2.25",
+    "bun-git-hooks": "^0.3.3",
+    "bun-plugin-dtsx": "^0.21.17"
   },
   "git-hooks": {
     "pre-commit": {
